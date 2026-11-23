@@ -1,0 +1,38 @@
+name: briefing-collect
+on:
+  schedule:
+    - cron: "40 22 * * *"   # UTC 22:40 = 上海 06:40
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: mine
+      - uses: actions/checkout@v4
+        with:
+          repository: Thysrael/Horizon
+          ref: 0eda588fb0486a4b183bb3c613d6f20548514505
+          path: horizon
+      - uses: astral-sh/setup-uv@v5
+      - name: Overlay briefing files
+        run: |
+          cp mine/collect.py mine/collect.sh mine/uv.lock horizon/
+          cp mine/briefing-config.json horizon/data/config.json
+      - name: Collect
+        run: |
+          D=$(TZ=Asia/Shanghai date +%F)
+          mkdir -p mine/raw
+          bash horizon/collect.sh --hours 24 --out "$GITHUB_WORKSPACE/mine/raw/raw-$D.json"
+      - name: Commit raw
+        working-directory: mine
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add raw/
+          git commit -m "raw $(TZ=Asia/Shanghai date +%F)" || echo "nothing to commit"
+          git push

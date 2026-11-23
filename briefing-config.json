@@ -1,0 +1,371 @@
+{
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "languages": [
+      "zh"
+    ]
+  },
+  "processing": {
+    "profiles_dir": "profiles",
+    "default_profile": "tech-news",
+    "profile_settings": {
+      "tech-news": {
+        "threshold": null,
+        "topic_dedup": true
+      }
+    }
+  },
+  "display": {
+    "icon_style": "ascii"
+  },
+  "sources": {
+    "github": [],
+    "hackernews": {
+      "enabled": true,
+      "fetch_top_stories": 30,
+      "min_score": 100,
+      "category": "ai-tech",
+      "profile": "tech-news"
+    },
+    "rss": [
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "MIT Technology Review AI",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/news/rss.xml",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "IT之家",
+        "url": "https://www.ithome.com/rss/",
+        "enabled": true,
+        "category": "ai-tech",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Variety",
+        "url": "https://variety.com/feed/",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "The Hollywood Reporter",
+        "url": "https://www.hollywoodreporter.com/feed/",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Deadline",
+        "url": "https://deadline.com/feed/",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "IndieWire",
+        "url": "https://www.indiewire.com/feed/",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "What's on Netflix",
+        "url": "https://www.whats-on-netflix.com/feed/",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "About Amazon · Prime Video",
+        "url": "https://www.aboutamazon.com/news/entertainment/rss",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Decider (streaming)",
+        "url": "https://decider.com/feed/",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Google News Apple TV (SG)",
+        "url": "https://news.google.com/rss/search?q=%22Apple+TV%2B%22+OR+%22Apple+TV%22+series+OR+season+when:1d&hl=en-SG&gl=SG&ceid=SG:en",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Google News 影视(中文)",
+        "url": "https://news.google.com/rss/search?q=%E7%94%B5%E5%BD%B1+OR+%E5%89%A7%E9%9B%86+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Google News 票房(中文)",
+        "url": "https://news.google.com/rss/search?q=%E5%BD%B1%E8%A7%86+%E7%A5%A8%E6%88%BF+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "film-tv",
+        "profile": "tech-news"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/rss",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "NYT World",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://feeds.npr.org/1004/rss.xml",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/rss",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Reuters World (via Google News)",
+        "url": "https://news.google.com/rss/search?q=when:1d+source:reuters+world&hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "BBC中文",
+        "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "world-politics",
+        "profile": "tech-news"
+      }
+    ],
+    "reddit": {
+      "enabled": false,
+      "fetch_comments": 0,
+      "subreddits": [
+        {
+          "subreddit": "LocalLLaMA",
+          "sort": "top",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 200,
+          "category": "ai-tech",
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "MachineLearning",
+          "sort": "top",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 50,
+          "category": "ai-tech",
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "artificial",
+          "sort": "top",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 100,
+          "category": "ai-tech",
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "movies",
+          "sort": "top",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 500,
+          "category": "film-tv",
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "television",
+          "sort": "top",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 300,
+          "category": "film-tv",
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "worldnews",
+          "sort": "top",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 2000,
+          "category": "world-politics",
+          "profile": "tech-news"
+        }
+      ],
+      "users": []
+    },
+    "twitter": {
+      "enabled": false,
+      "users": [],
+      "keywords": []
+    },
+    "openbb": {
+      "enabled": false,
+      "watchlists": []
+    },
+    "ossinsight": {
+      "enabled": false,
+      "period": "past_24_hours",
+      "languages": [
+        "All"
+      ],
+      "min_stars": 10,
+      "max_items": 30,
+      "category": "github-trending"
+    },
+    "telegram": {
+      "enabled": false,
+      "channels": []
+    },
+    "gdelt": {
+      "enabled": false,
+      "query": "(diplomacy OR summit OR sanctions OR election)",
+      "timespan": "24h",
+      "max_records": 50,
+      "language": "english",
+      "category": "world-politics"
+    },
+    "google_news": {
+      "enabled": false,
+      "query": "(diplomacy OR summit OR sanctions OR ceasefire OR election) when:1d",
+      "language": "en",
+      "country": "US",
+      "max_results": 60,
+      "category": "world-politics",
+      "profile": "tech-news"
+    }
+  },
+  "collection": {
+    "time_window_hours": 24
+  },
+  "digest": {
+    "max_items": 24,
+    "profile_order": [],
+    "category_groups": {
+      "ai": {
+        "name": "AI 与科技",
+        "limit": 6,
+        "categories": [
+          "ai-tech"
+        ]
+      },
+      "oss": {
+        "name": "GitHub 热门开源",
+        "limit": 6,
+        "categories": [
+          "github-trending"
+        ]
+      },
+      "film": {
+        "name": "影视资讯",
+        "limit": 6,
+        "categories": [
+          "film-tv"
+        ]
+      },
+      "politics": {
+        "name": "国际政治",
+        "limit": 6,
+        "categories": [
+          "world-politics"
+        ]
+      }
+    },
+    "default_group": "other",
+    "default_group_limit": 2
+  },
+  "email": null,
+  "webhook": {
+    "enabled": false
+  },
+  "wechat": {
+    "enabled": false
+  }
+}
