@@ -1,0 +1,1061 @@
+{
+ "generated_at": "2026-11-24T14:24:33+08:00",
+ "window_hours": 24,
+ "fetched_total": 612,
+ "counts_before_cap": {
+  "ai-tech": 63,
+  "github-trending": 16,
+  "film-tv": 265,
+  "world-politics": 231
+ },
+ "topics": {
+  "AI与科技": [
+   {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "source": "Hacker News",
+    "time": "2026-11-23T22:00+08:00",
+    "score": 2406,
+    "comments": 3356,
+    "discussion": "https://news.ycombinator.com/item?id=50611576",
+    "snippet": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... --- Top Comments --- [chunky1994]: “ In the process of reaching its decision, the Board received input from seni…"
+   },
+   {
+    "title": "微软总裁史密斯示警：AI 加速修补漏洞，未来数月全球恐出现更多技术故障",
+    "url": "https://www.ithome.com/1/031/479.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T14:08+08:00",
+    "snippet": "IT之家 11 月 24 日消息，微软总裁布拉德 · 史密斯（Brad Smith）于 11 月 22 日发布警告，表示未来数月全球技术故障风险将持续处于高位， AI 在加速漏洞发现的同时，也放大了快速更新带来的不稳定风险。 IT之家援引博文介绍，史密斯表示未来数月全球技术故障风险仍将居高不下， 而且由于“全球整个信息基础设施实际上都在进行升级改造”，相关风险无法在几周内解决，恐出现更多技术故障。 科技媒体 NeoWin 报道指出，近期全球网络出现大规模、大范围的宕机事件，微…"
+   },
+   {
+    "title": "datasette-charts 0.2a0",
+    "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+    "source": "Simon Willison",
+    "time": "2026-11-24T12:24+08:00",
+    "snippet": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlyin…"
+   },
+   {
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "source": "The Verge AI",
+    "time": "2026-11-24T06:25+08:00",
+    "snippet": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's rad…"
+   },
+   {
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T06:05+08:00",
+    "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+   },
+   {
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "source": "OpenAI News",
+    "time": "2026-11-24T05:20+08:00",
+    "snippet": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+   },
+   {
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "source": "MIT Technology Review AI",
+    "time": "2026-11-24T01:36+08:00",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient …"
+   },
+   {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "source": "Hugging Face Blog",
+    "time": "2026-11-24T01:20+08:00",
+    "snippet": ""
+   },
+   {
+    "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "source": "Hacker News",
+    "time": "2026-11-24T01:07+08:00",
+    "score": 1473,
+    "comments": 829,
+    "discussion": "https://news.ycombinator.com/item?id=50615308",
+    "snippet": "--- Top Comments --- [cs702]: The full comment is worth reposting here in its entirety: > Dario's spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control. > He left…"
+   },
+   {
+    "title": "魅族新机 M2621Q 入网，AI 小方块预计年底前后上线",
+    "url": "https://www.ithome.com/1/031/477.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T13:59+08:00",
+    "snippet": "IT之家 11 月 24 日消息，微博博主 @数码闲聊站 今日发文称，魅族新机近期入网，型号 M2621Q，支持 4G 网络，目前机型未知。 该名博主还在文中透露，魅族的 AI 小方块预计将在年底前后上线。该机搭载 4 英寸屏幕，主打 Flyme AIOS。 博主 @体验more 曾在此前透露，魅族 AI 小方块将量产上市，搭载紫光展讯 T8200 处理器。 参考IT之家此前报道， 在 9 月 2 日的腾讯 WorkBuddy 生态发布会上，魅族 AI 小方块概念机亮相 。据…"
+   },
+   {
+    "title": "datasette-agent 0.7a1",
+    "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+    "source": "Simon Willison",
+    "time": "2026-11-24T11:45+08:00",
+    "snippet": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integr…"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "source": "The Verge AI",
+    "time": "2026-11-24T06:10+08:00",
+    "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there wa…"
+   },
+   {
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T06:02+08:00",
+    "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+   },
+   {
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "OpenAI News",
+    "time": "2026-11-23T16:00+08:00",
+    "snippet": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+   },
+   {
+    "title": "Ladybird is now in alpha",
+    "url": "https://ladybird.org/posts/alpha/",
+    "source": "Hacker News",
+    "time": "2026-11-24T00:13+08:00",
+    "score": 1674,
+    "comments": 386,
+    "discussion": "https://news.ycombinator.com/item?id=50614249",
+    "snippet": "--- Top Comments --- [freakynit]: This actually worked amazingly well. I tested a lot of sites.. a few that were already opened in my firefox, and a few many others.. Every single one of them rendered correctly. This is truly amazing.. a ne…"
+   },
+   {
+    "title": "Anthropic 数学家澄清 Claude 证明黎曼猜想争议：“25 万页”的说法只是开玩笑，没想到大家都当真了",
+    "url": "https://www.ithome.com/1/031/476.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T13:55+08:00",
+    "snippet": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，参与使用 Claude 研究黎曼猜想的数学家 Levent Alpöge 在 X 上发文，承认自己做了一些傻事，并对此前公布的证明材料及相关争议作出解释。 首先，他表示最受争议的「超 25 万页」证明文档实际上只是一个玩笑，他根本没打算发布如此庞大的可读版证明材料。他表示，自己发布的 Lean 代码确实“满是垃圾”，但可以编译通过。他认为外界对这些冗余代码的批评“完全合理”，自己本应清理。 此前，Alpöge 于…"
+   },
+   {
+    "title": "Ladybird's first alpha release",
+    "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+    "source": "Simon Willison",
+    "time": "2026-11-24T05:46+08:00",
+    "snippet": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - th…"
+   },
+   {
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "source": "The Verge AI",
+    "time": "2026-11-24T06:09+08:00",
+    "snippet": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who …"
+   },
+   {
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T05:47+08:00",
+    "snippet": "\"The mistake has been corrected,\" Elon Musk chimed in."
+   },
+   {
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI News",
+    "time": "2026-11-23T16:00+08:00",
+    "snippet": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+   },
+   {
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "source": "Hacker News",
+    "time": "2026-11-23T18:06+08:00",
+    "score": 1098,
+    "comments": 358,
+    "discussion": "https://news.ycombinator.com/item?id=50609685",
+    "snippet": "--- Top Comments --- [HarHarVeryFunny]: I love the transparency, or at least given technical details, that Zhipu provide - a refreshing change from the locked-down approach of the western companies, and an interesting glimpse into the direc…"
+   },
+   {
+    "title": "黄仁勋回归英伟达首日：换下招牌黑皮衣，海军蓝 Dior 夹克再度亮相",
+    "url": "https://www.ithome.com/1/031/471.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T13:33+08:00",
+    "snippet": "IT之家 11 月 24 日消息，纽约邮报今天（11 月 24 日）发布博文，联合创始人黄仁勋复职重返英伟达公司首日， 并未穿着标志性的黑色皮夹克，选择了一件海军蓝色 Dior 外套，显得更为低调。 图源：视频截图 从现场画面看，黄仁勋身穿深色翻领拉链夹克，搭配黑色长裤和休闲鞋。IT之家援引博文介绍，这并非是黄仁勋首次身着海军蓝色外套， 在今年 6 月出访韩国时，就换下招牌皮衣，以 Dior 深蓝色外套亮相。 目前尚不清楚是否为韩国首尔之行穿过的同一件外套。 图源：sentv…"
+   },
+   {
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "source": "The Verge AI",
+    "time": "2026-11-24T05:09+08:00",
+    "snippet": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference,…"
+   },
+   {
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T05:25+08:00",
+    "snippet": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+   },
+   {
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "url": "https://arm.jonpalmisc.com/",
+    "source": "Hacker News",
+    "time": "2026-11-24T03:17+08:00",
+    "score": 968,
+    "comments": 224,
+    "discussion": "https://news.ycombinator.com/item?id=50617499",
+    "snippet": "--- Top Comments --- [jonpalmisc]: Hi, didn't expect to see this here, so adding a bit of info: They are requesting removal stating that I am using their trademarks and IP by hosting their documentation, which seems hard to work around whil…"
+   },
+   {
+    "title": "消息称豆包灰度测试“豆包购物”，配有一级功能入口",
+    "url": "https://www.ithome.com/1/031/464.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T12:36+08:00",
+    "snippet": "IT之家 11 月 24 日消息，据《读佳》今日报道，豆包 App 正灰度测试“ 豆包购物 ”，并配有一级功能入口，目前部分用户可见该功能。 从报道中晒出的截图可以看到，豆包购物独立放置在侧边菜单栏，和新对话、定时任务、插件技能并列，点击进入后是抖音电商提供的类小程序页面，相当于一个小型的抖音商城。 豆包购物底层复用抖音电商完整履约体系 ，可支持实物、餐饮团购、演出票务交易，覆盖结算、退款、售后核销全链路。 授权页面显示，这套购物链路依托抖音电商，页面标注来源为抖音电商。 据…"
+   },
+   {
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "source": "The Verge AI",
+    "time": "2026-11-24T04:00+08:00",
+    "snippet": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to …"
+   },
+   {
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T04:38+08:00",
+    "snippet": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+   },
+   {
+    "title": "Kagi Mail (public beta)",
+    "url": "https://blog.kagi.com/kagi-mail-public-beta",
+    "source": "Hacker News",
+    "time": "2026-11-24T01:17+08:00",
+    "score": 393,
+    "comments": 302,
+    "discussion": "https://news.ycombinator.com/item?id=50615481",
+    "snippet": "--- Top Comments --- [remywang]: Something I want but can’t find: free/busy calendar that works with all the protocols, including caldav and whatever google implements. Will save so much time scheduling meetings [trvz]: I'm a Kagi customer,…"
+   },
+   {
+    "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+    "url": "https://www.ithome.com/1/031/463.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T12:35+08:00",
+    "snippet": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，Qt 团队发布了最新的集成开发环境（IDE）Qt Creator 21。 本次更新重点加强了 AI Agent 与 IDE 的协作能力，同时引入全新的 Profile 性能分析模式，并改进 C++/QML 调试、Git 版本控制、CMake 项目管理和代码编辑体验。 在 AI 功能方面，Qt Creator 21 默认启用 Agentic AI Chat（ACP）集成和 MCP 服务器，并为 MCP 服务器默认增…"
+   },
+   {
+    "title": "How Jensen Huang ended up as Nvidia CEO again",
+    "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+    "source": "The Verge AI",
+    "time": "2026-11-24T03:57+08:00",
+    "snippet": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny a…"
+   },
+   {
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T03:14+08:00",
+    "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+   },
+   {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "source": "Hacker News",
+    "time": "2026-11-24T06:32+08:00",
+    "score": 360,
+    "comments": 172,
+    "discussion": "https://news.ycombinator.com/item?id=50620349",
+    "snippet": "--- Top Comments --- [hobo123]: I don't get it. They say that Outlook will no longer support Exchange on premise, only Cloud. So how will all their customers use Stalwart then, which is a drop-in replacement? Shouldn't they first switch to …"
+   },
+   {
+    "title": "黄仁勋重掌帅印：英伟达创逾 23 年最大单日涨幅，助推美股科技股集体大涨",
+    "url": "https://www.ithome.com/1/031/458.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T12:22+08:00",
+    "snippet": "IT之家 11 月 24 日消息，科技媒体 The Information 今天（11 月 24 日）发布博文，报道称受黄仁勋复职英伟达 CEO 利好消息影响， 推动美股科技股集体大涨，提振了投资者对人工智能行业的信心，推动纳斯达克 100 指数上涨 6.8%。 英伟达宣布黄仁勋重新出任首席执行官，公司股价当天收涨 31.48%，市值回升近 1 万亿美元，创下自 2003 年 5 月以来的最佳单日表现，创逾 23 年最大单日涨幅。单日大涨尚未让英伟达收复此前全部失地。其股价已…"
+   },
+   {
+    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+    "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "source": "The Verge AI",
+    "time": "2026-11-24T03:04+08:00",
+    "snippet": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, si…"
+   },
+   {
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T02:12+08:00",
+    "snippet": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+   },
+   {
+    "title": "GPUI is getting its own repository",
+    "url": "https://github.com/zed-industries/gpui",
+    "source": "Hacker News",
+    "time": "2026-11-24T04:52+08:00",
+    "score": 213,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50619103",
+    "snippet": "--- Top Comments --- [drnick1]: The hello world code example reinforces my opinion that Rust is verbose and ugly. [chubs]: I've been blown away by how rich the gpui-kit componentry is: https://gpui-kit.com/component/ I recently wrote a Rust…"
+   },
+   {
+    "title": "复职英伟达 CEO 后将迎国会听证，黄仁勋 12 月 3 日将公开作证",
+    "url": "https://www.ithome.com/1/031/456.htm",
+    "source": "IT之家",
+    "time": "2026-11-24T12:07+08:00",
+    "snippet": "IT之家 11 月 24 日消息，科技媒体 Engadget 今天（11 月 24 日）发布博文，报道称黄仁勋复职英伟达 CEO 后， 分别将于美国当地时间 12 月 1 日、12 月 3 日参加听证会，接受美国众议院、参议院等问询。 报道称在 12 月 1 日举办的听证会由情报委员会（House Intelligence Committee）等美国众议院的 3 个委员会问询，采用闭门形式，留存逐字记录的访谈（transcribed interview）。 IT之家援引博文介…"
+   },
+   {
+    "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+    "source": "The Verge AI",
+    "time": "2026-11-24T02:26+08:00",
+    "snippet": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely p…"
+   },
+   {
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-24T01:14+08:00",
+    "snippet": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+   }
+  ],
+  "GitHub热门开源": [
+   {
+    "title": "elementalsouls/Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 2029,
+    "stars_total": "20,155",
+    "language": "Python",
+    "snippet": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+   },
+   {
+    "title": "XiaoYouChR/Ghost-Downloader-3",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 1087,
+    "stars_total": "16,612",
+    "language": "Python",
+    "snippet": "The only downloader you need. 下载器的集大成者。"
+   },
+   {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 924,
+    "stars_total": "208,140",
+    "language": "TypeScript",
+    "snippet": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+   },
+   {
+    "title": "zhouxiaoka/autoclip",
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 907,
+    "stars_total": "14,708",
+    "language": "Python",
+    "snippet": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+   },
+   {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 840,
+    "stars_total": "325,299",
+    "language": "Shell",
+    "snippet": "An agentic skills framework & software development methodology that works."
+   },
+   {
+    "title": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 828,
+    "stars_total": "69,682",
+    "language": "Python",
+    "snippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+   },
+   {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 797,
+    "stars_total": "73,623",
+    "language": "Python",
+    "snippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+   },
+   {
+    "title": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 790,
+    "stars_total": "63,956",
+    "language": "Python",
+    "snippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+   },
+   {
+    "title": "mjmirza/app-store-compliance",
+    "url": "https://github.com/mjmirza/app-store-compliance",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 761,
+    "stars_total": "5,178",
+    "language": "Shell",
+    "snippet": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), an…"
+   },
+   {
+    "title": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 620,
+    "stars_total": "71,179",
+    "language": "HTML",
+    "snippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+   },
+   {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 595,
+    "stars_total": "77,532",
+    "language": "TypeScript",
+    "snippet": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+   },
+   {
+    "title": "Tracer-Cloud/opensre",
+    "url": "https://github.com/Tracer-Cloud/opensre",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 436,
+    "stars_total": "14,919",
+    "language": "Python",
+    "snippet": "The open-source agent for CI/CD reliability."
+   },
+   {
+    "title": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 422,
+    "stars_total": "12,408",
+    "language": "TypeScript",
+    "snippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+   },
+   {
+    "title": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 397,
+    "stars_total": "18,902",
+    "language": "TypeScript",
+    "snippet": "Cursor plugin specification and official plugins"
+   },
+   {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 184,
+    "stars_total": "12,331",
+    "language": "C++",
+    "snippet": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+   },
+   {
+    "title": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-24T14:24+08:00",
+    "stars_today": 174,
+    "stars_total": "33,091",
+    "language": "C",
+    "snippet": "The official NGINX Open Source repository."
+   }
+  ],
+  "影视资讯": [
+   {
+    "title": "B站推出《三体短篇集》、《雾山五行》大电影，多部国创IP公布新进展 - 手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jd2ZLY3ZPMjlFRk1jOUprejZScDdJaVk0YlVzcktwWVhQMGRHY2ZFSTJGTjhCaUk4Y2JhLU5KTlV6WVdBVXlTMVpaTDJUdVpSdzNhV09mbWVCTm1sNS1Cck16N1ltTzBUWUhXcjNfc3VBdw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-24T14:19+08:00",
+    "snippet": "B站推出《三体短篇集》、《雾山五行》大电影，多部国创IP公布新进展 手机新浪网"
+   },
+   {
+    "title": "Love Blooms Behind an Open Prison’s Missing Bars in Venice and Busan-Selected Director Nidhi Saxena’s ‘Azaad Nagar’ at WAVES Film Bazaar",
+    "url": "https://variety.com/2026/film/markets-festivals/love-blooms-open-prison-venice-directors-azaad-nagar-1236956781/",
+    "source": "Variety",
+    "time": "2026-11-24T14:17+08:00",
+    "snippet": "Nidhi Saxena, whose films have premiered at Busan and Venice, is presenting “Azaad Nagar” (Redemption Road), a Hindi-language love story set inside an Indian open prison, at the Co-Production Market at WAVES Film Bazaar. The film centers on…"
+   },
+   {
+    "title": "‘You Can See Everything’ Now Streaming: Where to Watch Nathan Fielder’s Elizabeth Holmes Doc Online",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-streaming-release-fielder-holmes-doc-1236761736/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-24T13:01+08:00",
+    "snippet": "Fielder and Lance Oppenheim brought viewers into Holmes' home. Now she's coming into yours."
+   },
+   {
+    "title": "Jason Sudeikis’s Ted Lasso gets a fifth season on Apple TV - Tbreak UAE",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mMnJjYXlTcFNERmFaSmhsS2RHbFB1OTllZjFGUS01UXVQd2NiNXZoUmFMdktwZzNCNFpRcnVVQ1o4RmVwNVFueU9NYTV1YVZId2tWOVE4SVVpZTA0YXNWSlNzaFg3Zw?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-24T12:59+08:00",
+    "snippet": "Jason Sudeikis’s Ted Lasso gets a fifth season on Apple TV Tbreak UAE"
+   },
+   {
+    "title": "Skydance Products & Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure",
+    "url": "https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267/",
+    "source": "Deadline",
+    "time": "2026-11-24T11:56+08:00",
+    "snippet": "Josh Silverman, President of Global Products & Publishing for Skydance, has set the division’s senior leadership team and announced the departure of one high-level executive. Since the close of the $110 billion merger of Paramount and Warne…"
+   },
+   {
+    "title": "出海高景气与院线价值重估下，AI影视能否实现“深V”反弹？丨行业风口 - 21财经",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXFtRXBFX3BOLVRoOHJPd0tMM1dvc0ZndE5zX251X1hZdE44bGptTHJ0Nm51dDd6SHBnU0NaRkdfeG9ja185RVh6Y0lYd0k3WW1iYXN6OW83VjNHbGJWQzY1T3NsMzJDX09EV2MyR1FNMm5sM0h5VUpyRm40dm9HajdPR2g5MVk3UjQyYTV5cw?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-24T09:33+08:00",
+    "snippet": "出海高景气与院线价值重估下，AI影视能否实现“深V”反弹？丨行业风口 21财经"
+   },
+   {
+    "title": "‘The Further Mis-Adventures of Cliff Booth’ European Premiere: Ted Sarandos Calls David Fincher “Our Greatest Living Director”",
+    "url": "https://www.whats-on-netflix.com/news/the-further-mis-adventures-of-cliff-booth-european-premiere/",
+    "source": "What's on Netflix",
+    "time": "2026-11-24T09:04+08:00",
+    "snippet": "We were at the BFI IMAX in London for the European premiere of Netflix's biggest movie of the year. Here's what went down."
+   },
+   {
+    "title": "Stream It Or Skip It: ‘Clashing Through the Snow’ on Prime Video, Michelle Randolph and Christopher Briney lead a fun rivals-to-lovers rom-com",
+    "url": "https://decider.com/2026/11/23/clashing-through-the-snow-movie-prime-video-review-michelle-randolph-stream-or-skip/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-24T07:15+08:00",
+    "snippet": "Embark on an entertaining journey with this straightforward, rivals-to-lovers Christmas rom-com."
+   },
+   {
+    "title": "Billy Ray Joins Oscar Short Contender ‘Magan’s Fare,’ Starring Barkhad Abdi, as Executive Producer",
+    "url": "https://www.indiewire.com/news/general-news/bill-ray-joins-oscar-contender-magans-fare-ep-1235230395/",
+    "source": "IndieWire",
+    "time": "2026-11-24T06:30+08:00",
+    "snippet": "The collaboration is a reunion for the pair, as Ray wrote the screenplay for \"Captain Phillips,\" which earned Abdi a Best Supporting Actor Oscar nomination."
+   },
+   {
+    "title": "《沂蒙》拿下飞天奖，电影《斗牛》走向金马奖，管虎的两条创作线如何交汇？ - 中华网",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRNktvdnpNWXU0aTJpRm51S3M3aThoUHcyd2VyS2ZEblp2OGdkRzA2RVpmLXdsa2VmZmZDLUVYa2I3Ty1tQk01ZTNUTHM1U1hKSGNNeUpXWVNfOXIzSmRfc0txcXpaRm16d2V1Tw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-24T14:16+08:00",
+    "snippet": "《沂蒙》拿下飞天奖，电影《斗牛》走向金马奖，管虎的两条创作线如何交汇？ 中华网"
+   },
+   {
+    "title": "Ranbir Kapoor’s ‘Brahmastra’ Sequel Could Go ‘Even More Indian,’ Director Ayan Mukerji Tells IFFI",
+    "url": "https://variety.com/2026/film/festivals/ranbir-kapoor-brahmastra-sequel-more-indian-1236956772/",
+    "source": "Variety",
+    "time": "2026-11-24T14:04+08:00",
+    "snippet": "Ayan Mukerji, director of the Ranbir Kapoor-starring fantasy epic “Brahmastra: Part One – Shiva,” told audiences at the 57th International Film Festival of India (IFFI) in Goa that his next creative focus is the sequel, “Brahmastra 2.” “I h…"
+   },
+   {
+    "title": "2026 International Emmy Winners Revealed: ‘Carême’ Wins Best Drama",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-24T11:12+08:00",
+    "snippet": "Other top winners include 'División Palermo' for best comedy, best actor Bobby Schofield for 'Unforgivable' and best actress Mona Mina Leon for 'Holy Sh!t.'"
+   },
+   {
+    "title": "Ted Lasso scores again — Jason Sudeikis’ hit comedy renewed for Season 5 - Telegraph India",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbm0xN2hHdlNBZHNXZDM2T0tQb1Z2Y29ZQjdKWWV1ZHZYVjB1cXZPdld6NmRaREdhNVp4aUZ2UWhLME80WHZGYndqTWlWUU1Sd19JWjhVblhNTnc0WE5VZy1NNV9TdFNtX0F6ZWpqWm1HbmlDOXo3MzkxS1FvQXNEdXpoTF9mWEJBckRmTmhBVk1uQlpTWkdVemVrM3kwRThzR0xVMTlYdWlPREZUdE1UelJsVEZoejBpd3cwVklVSG1pQm1Z0gHKAUFVX3lxTFBvcnJwc0ZCUUdMQWJ0XzhiY1c0U3dCVUUxeXRYdEZXbGFOblZkaXZsSWE2a3JsN09LamxqUTBnZGdTV3hlb1pfVDZGZGREMUNJVUVZWG5jbFF2b0hQbjVyN1Z3OC16clliY3diVU03dnBqbXFiVVRpeVIyeHVGMm1JWmFnQ2F1U19SN1FkRjRXZVFtYlBkbU5BWmRmRmg5OEowWXE3anRwMHpyaFg1ZXFuaXNYQml1LXd2UXNrZUEwWHg1dHhEQ2lVUEE?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-24T12:51+08:00",
+    "snippet": "Ted Lasso scores again — Jason Sudeikis’ hit comedy renewed for Season 5 Telegraph India"
+   },
+   {
+    "title": "ESPN’s ‘Monday Night Football’ Interrupted As Lights Go Out During Bengals-Commanders Game",
+    "url": "https://deadline.com/2026/11/espn-monday-night-football-lights-out-bengals-commanders-1237232264/",
+    "source": "Deadline",
+    "time": "2026-11-24T11:48+08:00",
+    "snippet": "ESPN’s Monday Night Football went dark as the Cincinnati Bengals played the Washington Commanders. The NFL game was paused shortly after the second half began due to a blackout at Northwest Stadium in Maryland. As the stadium went dark, ima…"
+   },
+   {
+    "title": "从第一票仓到产业样本：广东电影凭什么成为全国创作高地？ - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzk0Z2J6dGswQVRuWU90Y1pWLUNOVE4yd2lkX1JiaGZ1QVhoUWtHWjFKTjN1RnJGWEM2UEFQWEU2WVNLLVBPLWJ0QjNTMkpqTlViV0dTNWlfdW9HUmZZWjdacTYwS2lWUUNra1g4MVdBclNwRmZkcnIwd013T2lRRGZKSUhlR0kzMGdRSQ?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-24T09:13+08:00",
+    "snippet": "从第一票仓到产业样本：广东电影凭什么成为全国创作高地？ Sohu"
+   },
+   {
+    "title": "David Fincher Says Netflix’s ‘Cliff Booth’ Movie Didn’t Cost $200 Million: “I Wish We Had 200”",
+    "url": "https://www.whats-on-netflix.com/news/david-fincher-says-netflixs-cliff-booth-movie-didnt-cost-200-million-i-wish-we-had-200/",
+    "source": "What's on Netflix",
+    "time": "2026-11-24T01:09+08:00",
+    "snippet": "The director says the Brad Pitt movie came in at around $120 million, well below the figure Quentin Tarantino gave last year."
+   },
+   {
+    "title": "Is ‘Monday Night Football’ on ABC tonight? Where to watch tonight’s ‘MNF’ game live for free",
+    "url": "https://decider.com/2026/11/23/monday-night-football-tonight-watch-abc-channel-where-watch-mnf-game-free/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-24T07:01+08:00",
+    "snippet": "Joe Burrow and the Bengals collide with the Commanders on MNF!"
+   },
+   {
+    "title": "Why Is the ‘Avengers: Doomsday’ Trailer So… Gloomy? Internet Erupts Over Latest Look at Marvel Movie",
+    "url": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/",
+    "source": "IndieWire",
+    "time": "2026-11-24T06:23+08:00",
+    "snippet": "Are the Russo brothers afraid of color or what?"
+   },
+   {
+    "title": "第七届巫山神女杯艺术电影周闭幕 - 新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1VoUmdlS0FUencyNDY5QmxXdDJUeUxRVDZBVlVJWlB5bHhMY2t2MGh2X0hJMzBYUVppYTc0ME1WWUlSajdXb2Z1Zk9XUk5RWDJ0aWl5YkEyN1pTa3NEdkVxZGczLUc0VE5FY0dJTUx3OFU2UnN6TDhfQUhqYkxWbms4dw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-24T14:00+08:00",
+    "snippet": "第七届巫山神女杯艺术电影周闭幕 新浪财经"
+   },
+   {
+    "title": "‘Elephants in the Fog’ Adds Mexico, South Korea, Portugal Sales as Oscar Campaign Visits U.N. (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/festivals/elephants-fog-mexico-south-korea-portugal-sales-1236956767/",
+    "source": "Variety",
+    "time": "2026-11-24T13:50+08:00",
+    "snippet": "Best Friend Forever has closed new sales deals for “Elephants in the Fog” in Mexico, South Korea and Portugal, as Nepal’s Oscar entry for best international feature film builds a campaign around impact screenings that place the Kinnar commu…"
+   },
+   {
+    "title": "Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-24T10:56+08:00",
+    "snippet": "A spokesperson for the director denied the allegations and said, \"It's not true.\""
+   },
+   {
+    "title": "Apple TV’s R-Rated True Crime Masterpiece Feels Like A Documentary - ScreenRant",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEtVVHhSSVV1V3l6bzl3UXRTdFFodmFwWFBoNjE1QTBPNm5kYUtGNEk0WWFJVTdHdWttLW5KMll6NXV3b3pWaVZJOXlYUzF5Z0prUFNPYVI2RzBUS1ZwOThTZHBFMFcyVFBja3FYZ2NDV2NCbFN3cXYtaFVEZEU5MklLS0w?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-24T12:15+08:00",
+    "snippet": "Apple TV’s R-Rated True Crime Masterpiece Feels Like A Documentary ScreenRant"
+   },
+   {
+    "title": "‘Caréme’ & ‘División Palermo’ Take Top Prizes At International Emmy Awards: Full Winners List",
+    "url": "https://deadline.com/2026/11/2026-international-emmys-winners-list-1237232118/",
+    "source": "Deadline",
+    "time": "2026-11-24T11:27+08:00",
+    "snippet": "France’s Caréme was named Best Drama Series at the 54th International Emmy Awards, which were handed out Monday night in Manhattan. División Palermo from Argentina took the Comedy Series prize. See the full winners list below. Hosted by Mic…"
+   },
+   {
+    "title": "全球电影中心 - 手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwU1c2LUdqamhMZGYwYzNGdjc5SnlTSXdPRi0zM2dhRlNpUVM1M2hpSGZlZFItMHRwa0QwaDhsSThrY0JsQkRDNXh3NlVZME1qTlVZdkhUVHBpUEZyWUgtX2p3NA?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-23T19:30+08:00",
+    "snippet": "全球电影中心 手机新浪网"
+   },
+   {
+    "title": "‘Akane-banashi’ Season 2 Confirms January 2027 Release Date but Netflix Subscribers May Have to Wait",
+    "url": "https://www.whats-on-netflix.com/news/anime/akane-banashi-season-2-netflix-release-date/",
+    "source": "What's on Netflix",
+    "time": "2026-11-24T00:02+08:00",
+    "snippet": "Akane's journey to becoming a shin'uchi headliner continues in 2027, though international Netflix subscribers may face a short wait following the Japanese broadcast."
+   },
+   {
+    "title": "Stream It Or Skip It: ‘Dig’ on Peacock, where Amy Poehler ends up in a hole with Hugh Laurie",
+    "url": "https://decider.com/2026/11/23/dig-on-peacock-review-amy-poehler-stream-it-or-skip-it/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-24T06:30+08:00",
+    "snippet": "Amy Poehler's new Peacock comedy is based on Kate Myers' 2023 novel \"Excavations.\""
+   },
+   {
+    "title": "AI Film ‘Gods Don’t Give Gifts’ Deemed Ineligible by Academy for Best Animated Feature Oscar",
+    "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+    "source": "IndieWire",
+    "time": "2026-11-24T05:42+08:00",
+    "snippet": "The film from director Gossip Goblin will appeal the decision and is still planning an awards qualifying run in theaters beginning December 4."
+   },
+   {
+    "title": "2026“中国电影创作高质量发展”学术季港澳台专场在广州举行 - 21财经",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkJ3S0J0cHFPdTU4a0JhQW9nRHNUa3RINFh5U3NBajVqZC03WWdoXy1ENGVNZGl3dDRDMmdnRnJNMnJZeXdQbmFLM2dNbGdPRzM2SXFjVkVCdmQ0RXhIeEttNDRrbzNwUktRdkFyWjlyV1F4YjlGQmtCMnEwT1BxVGIyTzRNU0FpM19naFJPbw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-24T13:50+08:00",
+    "snippet": "2026“中国电影创作高质量发展”学术季港澳台专场在广州举行 21财经"
+   },
+   {
+    "title": "Hila Klein Exits ‘H3 Podcast’ Following Ethan Klein Affair: ‘I’m Devastated That Things Have Come to This’",
+    "url": "https://variety.com/2026/digital/news/hila-klein-exits-h3-podcast-ethan-klein-affair-1236956758/",
+    "source": "Variety",
+    "time": "2026-11-24T13:36+08:00",
+    "snippet": "Hila Klein is officially exiting the “H3 Podcast” a month after it was revealed that her co-host and husband, Ethan Klein, had been having a six-month affair. The news follows Hila’s October announcement that the show would be on an “indefi…"
+   },
+   {
+    "title": "From Beauty to Tech, Deep Black Friday Deals Land on the New Brand+ Marketplace via AliExpress",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/brand-plus-aliexpress-black-friday-sale-2026-1236761706/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-24T10:50+08:00",
+    "snippet": "Launched late last year, the Brand+ channel is a dedicated shopping destination for products from trusted brands."
+   },
+   {
+    "title": "International Emmys 2026: Apple TV's Carême wins best drama – full winners list - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFZzWEtWN2Z1QjFZNDRpLVBEbE1UazNQdlU0RE85YURMaHNENXF0SWdNOXJHa2tEM05pX1dqN0E1NS11SlIzSG5yNkdkTFVpOE5paGpiY0pBR1JFU3pDanl0dElCRUE3X21CUm1waWRNcWFXNUp2Vy0xN0xybUgyVXZLRmJ5b2g4Q0VxZ01ZdkwzWkNQQWU4SWdBUmVfZm1ROF85THl1MUp0WFNscGJTOWN1bERzSkpSdVhMSW9adjlQVEZwRFHSAdYBQVVfeXFMTl9aNFFtUl9QVEVEelRRU0FyTEFWWld2aHJ5OE9faWxNQ1RkTFZZMmxMVUUyMUtrMHVBcXF4TVNyNlkzcFQxZ3JjZXJUamVzNGo4Z3RWazZ6SDdUNE5qV2s5VFlHSDFYR2t4UDlyLXVkSDFwczNZUzU5UnVqdk9TRWpJMFZ0RmNwY1ZKN1VnVm9ZTmY4U2FuOWdvQ0dBRWtXTE4xaGxWMlJHQk5zaE8zbG5xNmxzbWVUbEQwcEM0X1FNQmQwaVcyLWJMMWo5T0t5VVlDekJpQQ?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-24T11:49+08:00",
+    "snippet": "International Emmys 2026: Apple TV's Carême wins best drama – full winners list Gulf News"
+   },
+   {
+    "title": "David Zaslav Recalls “Awkward Moment” Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff “Motivated”",
+    "url": "https://deadline.com/2026/11/david-zaslav-skydance-merger-gerhard-zeiler-wbd-emmys-1237232182/",
+    "source": "Deadline",
+    "time": "2026-11-24T10:59+08:00",
+    "snippet": "In one of his first public appearances since the close of the $110 billion Skydance merger, ex-Warner Bros. Discovery CEO David Zaslav on Monday recalled a key sequence during the deal’s regulatory review. “We were in this awkward moment,” …"
+   },
+   {
+    "title": "观众好评度95%，3天破15亿，中美同步夺冠，2026年又诞生了大黑马 - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWVvMzJlakhhd1RoSFJINmJvRGZLYzF1WlNvNHpGdTdReEFtYnJhZnlUcW1jbmFaMnA0UmVFQ0JBb21XbE8zOHhHX0dORUpPRV93bWk2OVR2TE5ZNlpDYlJOaGFnQThRc0V0ODJhSzVBOU1MOHpjSFl1QUZwYkxwNFdWMlVERkJkWXpJLQ?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-23T17:47+08:00",
+    "snippet": "观众好评度95%，3天破15亿，中美同步夺冠，2026年又诞生了大黑马 Sohu"
+   },
+   {
+    "title": "New K-Dramas on Netflix in December 2026",
+    "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-k-dramas-december-2026-preview-tantara/",
+    "source": "What's on Netflix",
+    "time": "2026-11-23T23:35+08:00",
+    "snippet": "The highly anticipated 22-episode drama 'Tantara' will close out the year with a massive three-part weekly release, headlining a quiet December for Korean shows."
+   },
+   {
+    "title": "‘Dig’ ending explained: Who stole Pretty Woman and why?",
+    "url": "https://decider.com/2026/11/23/dig-ending-explained-season-1/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-24T06:00+08:00",
+    "snippet": "The thief has been caught and their identity is..."
+   },
+   {
+    "title": "The Best Visual Effects in ‘Wildwood’ Are the Ones You Can’t See — Watch",
+    "url": "https://www.indiewire.com/features/craft/wildwood-vfx-indiewire-craft-roundtables-1235230006/",
+    "source": "IndieWire",
+    "time": "2026-11-24T05:00+08:00",
+    "snippet": "\"Wildwood\" Head of CG Animation Benoit Dubuc tells IndieWire about the visual effects that are hidden everywhere."
+   },
+   {
+    "title": "摩洛哥举办第23届马拉喀什国际电影节 - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3FsdWxXQlhsMk9BSzFyb0dwTTJBRW5xaHNNTEg2WDVMb0p1Yy1NYVR6TXNGWEVqSzZvdWxhSEo2X1FHcC1QOGR1U0FNNy1tYzNkVzBNWHRtMlIxOGhRMVE2bXY5U1c5UUlKeDk5bjVMcXlabnEyRzUxY2N6aFVLQWxLbll5LUxoa1M0?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-24T12:31+08:00",
+    "snippet": "摩洛哥举办第23届马拉喀什国际电影节 Sohu"
+   },
+   {
+    "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
+    "url": "https://variety.com/2026/film/markets-festivals/india-highest-box-office-pandemic-waves-film-bazaar-1236956754/",
+    "source": "Variety",
+    "time": "2026-11-24T13:29+08:00",
+    "snippet": "India is poised for its highest box office since the pandemic, provided the remaining weeks of 2026 go as expected, Girish Johar, head of distribution and revenues at Zee Studios, said at WAVES Film Bazaar, the market held alongside the 57t…"
+   },
+   {
+    "title": "Oura Ring 5, Red Light Therapy and Cult-Favorite Skin Care Lead the Sam’s Club Black Friday Sale",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/sams-club-black-friday-deals-2026-beauty-wellness-discounts-1236761566/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-24T10:14+08:00",
+    "snippet": "From viral hair care to high-end beauty tech, the online event is chock-full of Hollywood-coveted self-care steals."
+   },
+   {
+    "title": "‘Ted Lasso’ Renewed for Season 5 at Apple TV - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yN1RJQXFLdFZibVoxNldMNUlCNzJaVG5RU0p2Y1U1bDZ4eVA3ejFpWGxGcE9hdmxFZXJ4a3hJV0hSUHJTbFRDcDRENEtQRkVOazhFeDNnNUluTy14S1M3SzBxV3RwUQ?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-24T11:18+08:00",
+    "snippet": "‘Ted Lasso’ Renewed for Season 5 at Apple TV IMDb"
+   }
+  ],
+  "国际政治": [
+   {
+    "title": "US imposes new sanctions targeting Iran's global financial networks - Latest news from Azerbaijan",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFNqX3JfZ1BkY1B5WTQ3UWlSU3Y5ZlA2anoyTUs4VXlzSm9DUlpIZEQtNi05dldzTDhfaXVrbVhjdTk0WVZmRmhubWQ0VjA3czI5VDNJYXJkMFNsWHFsQzUxREFlMy15RWFSd0dFTEREd0FIUV9EZHExZmtnZDN3MjNfNDBrUUFyZmg3b0FKU0hhUQ?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-24T14:05+08:00",
+    "snippet": "US imposes new sanctions targeting Iran's global financial networks Latest news from Azerbaijan"
+   },
+   {
+    "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "source": "The Guardian World",
+    "time": "2026-11-24T14:00+08:00",
+    "snippet": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in t…"
+   },
+   {
+    "title": "Pope Francis Diary Excerpts Published in New Book",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+    "source": "NYT World",
+    "time": "2026-11-24T14:00+08:00",
+    "snippet": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts."
+   },
+   {
+    "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+    "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-24T13:56+08:00",
+    "snippet": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday."
+   },
+   {
+    "title": "Live: Tripoli demands explanation from Kyiv for striking Russian ships in Libyan waters",
+    "url": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
+    "source": "France 24",
+    "time": "2026-11-24T13:50+08:00",
+    "snippet": "The Tripoli-based Libyan foreign ministry on Monday condemned a Ukrainian drone attack on two Russian ships near the eastern city of Benghazi over the weekend, demanding an explanation from Kyiv. Meanwhile, South Korean authorities said Tue…"
+   },
+   {
+    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-24T13:33+08:00",
+    "snippet": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\"."
+   },
+   {
+    "title": "Russian Offensive Campaign Assessment, November 23, 2026 - Institute for the Study of War",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDMwdjdWRXU2aEVmSVRTMmxFWWxWc2JsUDE5d1pDdlNsSWh6YWpJNHpsb2dHSENvd2Y5Q1JRVmx6T1hJSTlhVzFVYkl6MmdwZVZWZHRIdjNPMURyQ0sxZFlhaGJxRzM4a2dIb1hySlFjcmFQRmNUTEtqcGFYNnotT0N3azJTOVpuQks1NkotSlM0S2hmVURBZlNPX1BnbUUtTk85N0NtTW0wNXQ5?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-24T11:48+08:00",
+    "snippet": "Russian Offensive Campaign Assessment, November 23, 2026 Institute for the Study of War See more headlines & perspectives on Google News"
+   },
+   {
+    "title": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
+    "url": "https://www.bbc.com/zhongwen/articles/cxzd9y2gre3lo/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-24T10:19+08:00",
+    "snippet": "據律師團隊所稱，伊朗女歌手帕拉斯托·阿赫瑪迪、三名音樂人及一名製作人在庫姆被執行74鞭笞刑。"
+   },
+   {
+    "title": "Russian incursions into NATO territory are increasing",
+    "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+    "source": "NPR World",
+    "time": "2026-11-24T07:08+08:00",
+    "snippet": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday."
+   },
+   {
+    "title": "Breakingviews - COMMENTARY: Huang's return offers China AI only brief respite - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGpHeDcwY3VJYlg1dE5haTVaVThHQkxqc0FoTG1zRnlMUDZYMHBMUGJiQ05GcElmLUIzS0pBQndEdk5LeW1SbXpQc2V1Y1cwMGIzTkFBMXVZc3ZobHJvMmw1T0RIYlpkNEFfQ0JVdzd4NUtuU2s3ZkhGYTJ2S0tyeG9aUFdEc0R2M0NQRElCNEFLYUdDUjVITWp6SDVaczRDMnFfek10MGhkazZpOVE?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-24T13:09+08:00",
+    "snippet": "Breakingviews - COMMENTARY: Huang's return offers China AI only brief respite Reuters"
+   },
+   {
+    "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+    "source": "The Guardian World",
+    "time": "2026-11-24T13:58+08:00",
+    "snippet": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and creatives around the world pleading for the Austra…"
+   },
+   {
+    "title": "The Return of Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "source": "NYT World",
+    "time": "2026-11-24T13:44+08:00",
+    "snippet": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying."
+   },
+   {
+    "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+    "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-24T12:59+08:00",
+    "snippet": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties."
+   },
+   {
+    "title": "Jensen Huang's surprise return to Nvidia sparks mixed reactions in Washington",
+    "url": "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington",
+    "source": "France 24",
+    "time": "2026-11-24T11:16+08:00",
+    "snippet": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as Democratic leaders vowed investigations and prominent Republicans questioned whether his return posed a national security risk."
+   },
+   {
+    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-24T12:36+08:00",
+    "snippet": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+   },
+   {
+    "title": "Iran Update, November 23, 2026 - Institute for the Study of War",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0VKNG41X05zSV9uTTEwNWJKVkJOMHU1WXpCa2kyN3lNcnBMVjVOREdKM1ZRMFZlYjExWlZwQzBDX1AxREZSTTVmaVhJYVBIeFFrMTFMRV9kUENna3dLcGR4S3FDOGlHNkdubVl0S0poSl9GYl8ySVJpejBKNWdsX1hPNUJUZw?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-24T11:48+08:00",
+    "snippet": "Iran Update, November 23, 2026 Institute for the Study of War Iran Update, November 21, 2026 Institute for the Study of War The Iranian Axis – Monthly Review (October 1–November 15, 2026) Alma Research and Education Center Iran Update, Nove…"
+   },
+   {
+    "title": "我們如何知道疫苗安全？它們是如何經過測試？",
+    "url": "https://www.bbc.com/zhongwen/articles/c6qj5772kl0go/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-24T08:27+08:00",
+    "snippet": "從實驗室試驗到終身的安全監測，疫苗在提供給民眾前後，都會經過多重檢驗。"
+   },
+   {
+    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+    "source": "NPR World",
+    "time": "2026-11-23T20:42+08:00",
+    "snippet": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history."
+   },
+   {
+    "title": "World Darts Championship tickets and hotel packages from only £159pp to party at Ally Pally in December - The Sun",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkx3RXVlR1Fmb05FcGlIcTZGWFNjM3Z6aUZVNzBYU3N5V0dLREQxSUJMdUpiRzRyMER1RDN1SnJZQWlQdUFkaUZ4RDJQNnFMNFpOU2M1bzlNbkV5TTZJdGRodVp3dHMwMGlMUXNDT1hadGxWTGZKQ19CalJ5VUtJZWZzMU5fSVk5eUlVMVdGTFJGdmtoc1d3?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-24T11:21+08:00",
+    "snippet": "World Darts Championship tickets and hotel packages from only £159pp to party at Ally Pally in December The Sun"
+   },
+   {
+    "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+    "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+    "source": "The Guardian World",
+    "time": "2026-11-24T13:54+08:00",
+    "snippet": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging tha…"
+   },
+   {
+    "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+    "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+    "source": "NYT World",
+    "time": "2026-11-24T13:01+08:00",
+    "snippet": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers."
+   },
+   {
+    "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-24T12:52+08:00",
+    "snippet": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate."
+   },
+   {
+    "title": "US flew surveillance drone over Mexico to help capture top drug lord",
+    "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+    "source": "France 24",
+    "time": "2026-11-24T10:09+08:00",
+    "snippet": "Mexican officials say the United States flew a surveillance drone over Mexican territory to help locate and capture one of the country's most wanted drug traffickers. The operation led to the arrest of Fausto Isidro Meza Flores, known as 'E…"
+   },
+   {
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-24T10:15+08:00",
+    "snippet": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
+   },
+   {
+    "title": "China sentences official to death for spying for foreign country - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkxSd09pOGZpSW1LZGp6RHhmNlFldmh0STRwVjl3RE1LUjdpSFBPbC0wM0RQN2NvUElxUzc1Yi1ZdlBnNlphVk1qZDVVZjR3VnRyNXJDcnY3R01lcTllTUNzRlUyejMwQl9BelhYU2ViLW5vMmR6dkNqRHpMTHFBRnpYQWpWM0NyVWZtTV9IQnNDbXBaTm45T1BrLTUtbU1yM2xrcWh3MFl5Zmo0SDlF?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-24T10:37+08:00",
+    "snippet": "China sentences official to death for spying for foreign country The Guardian China sentences an official to death for spying and leaking national secrets AP News Chinese official sentenced to death for leaking secrets to foreign country CN…"
+   },
+   {
+    "title": "Nvidia和黃仁勳對美國經濟有多重要？",
+    "url": "https://www.bbc.com/zhongwen/articles/cvwy0jx7nj84o/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-24T08:24+08:00",
+    "snippet": "黃仁勳離職僅11天便重掌英偉達，凸顯他對人工智能產業及美國經濟的重要性。他本人和這家晶片巨頭究竟有多大影響力？"
+   },
+   {
+    "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+    "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+    "source": "NPR World",
+    "time": "2026-11-23T18:16+08:00",
+    "snippet": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault."
+   },
+   {
+    "title": "India’s garment exporters want US orders, not US dependence - Digg",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qX0RiaGw3U0F1Q0NVek0wbmdoNmVZYV92VTJMYXp3WGZzcHRpanlaZndDcWRWcGdiRVFfMHRWV0pDdXAtdmhEZWhBZFNYbXZXWUE?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-24T11:09+08:00",
+    "snippet": "India’s garment exporters want US orders, not US dependence Digg"
+   },
+   {
+    "title": "Australian politics live: ‘Private tycoons’ shouldn’t have their own AI arsenals, Andrew Hastie says",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+    "source": "The Guardian World",
+    "time": "2026-11-24T13:51+08:00",
+    "snippet": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of whe…"
+   },
+   {
+    "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+    "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+    "source": "NYT World",
+    "time": "2026-11-24T08:35+08:00",
+    "snippet": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours."
+   },
+   {
+    "title": "Car bomb strikes governor’s office in Meta, Colombia",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-24T12:49+08:00",
+    "snippet": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department."
+   },
+   {
+    "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+    "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+    "source": "France 24",
+    "time": "2026-11-24T08:30+08:00",
+    "snippet": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as early as Tuesday."
+   },
+   {
+    "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+    "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-24T09:21+08:00",
+    "snippet": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal."
+   },
+   {
+    "title": "Russia’s war dead: the hidden toll of the Ukraine conflict - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHEzaFFZSHUwdzN0LS1RbTVLRlF1MFpWblFUV2l1eUtybk9fOHJzNmQzeW8zSi13TEdMWGtYTE9UTFNHbGx4UUZ6Z2UyRlJQUU1kY3hKNmtsV3V1ZkVsWWR3UmxvdDlud0NQa2VRRldnWFQwdV85R0RNZTVKaTJKbko0UV9Qa3FLR0J1S1FNSkZxM01k?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-24T10:30+08:00",
+    "snippet": "Russia’s war dead: the hidden toll of the Ukraine conflict The Guardian Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates The New York Times Leaked data shows more than 1,000 Russian military suicides during Ukraine war…"
+   },
+   {
+    "title": "美國六成AI風投資金湧入舊金山，但崩盤憂慮日益加深",
+    "url": "https://www.bbc.com/zhongwen/articles/cmlyj36xxek1o/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-24T08:24+08:00",
+    "snippet": "身處人工智慧產業中心，舊金山的AI從業人員擔心該產業已經過熱。"
+   },
+   {
+    "title": "Australia's Pauline Hanson faces biggest test as debt and anger align in state vote, World News - AsiaOne.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPam80T2RmSVF4dWlCV29XUFZZbjlkRDlkTW54NlpWNVVGMUJrM2tva3JFeUR4Y1RTSFZZaHl0eS10UmE2RXhZSXkteXB4NTE4M29QdkpiellRMzA0bHl2WnByUXdKeXdfWHhZMjhvbzI1Sk8wdGppVXYwdERCTFdkMWRvVHQ4bnk3WVYwOHQyWl91bW5JdS1GNlpCVUhLVWRMRmlJaUZFRDRRQQ?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-24T10:57+08:00",
+    "snippet": "Australia's Pauline Hanson faces biggest test as debt and anger align in state vote, World News AsiaOne.com"
+   },
+   {
+    "title": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+    "source": "The Guardian World",
+    "time": "2026-11-24T13:49+08:00",
+    "snippet": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird’s Paddington home in February 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon could have sat in silence an…"
+   },
+   {
+    "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "source": "NYT World",
+    "time": "2026-11-24T05:46+08:00",
+    "snippet": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding."
+   },
+   {
+    "title": "India’s best known bottled water under scrutiny",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-24T12:44+08:00",
+    "snippet": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe."
+   },
+   {
+    "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+    "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+    "source": "France 24",
+    "time": "2026-11-24T07:10+08:00",
+    "snippet": "14 from Europe, Africa and Oceania have acknowledged a landmark ruling by the International Court of Justice that Myanmar committed genocide against its Rohingya minority, calling on the country to comply with its obligations under internat…"
+   }
+  ]
+ },
+ "source_status": [
+  {
+   "source": "Hacker News",
+   "status": "success",
+   "item_count": 11
+  },
+  {
+   "source": "RSS Feeds",
+   "status": "success",
+   "item_count": 601
+  }
+ ],
+ "feed_filtered_out": {
+  "IT之家": 39
+ },
+ "github_trending_error": null
+}
