@@ -1,0 +1,1018 @@
+{
+ "generated_at": "2026-11-27T12:32:12+08:00",
+ "window_hours": 24,
+ "fetched_total": 492,
+ "counts_before_cap": {
+  "ai-tech": 31,
+  "github-trending": 16,
+  "film-tv": 195,
+  "world-politics": 205
+ },
+ "topics": {
+  "AI与科技": [
+   {
+    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "source": "Hacker News",
+    "time": "2026-11-27T01:36+08:00",
+    "score": 311,
+    "comments": 384,
+    "discussion": "https://news.ycombinator.com/item?id=50657530",
+    "snippet": "--- Top Comments --- [noitpmeder]: Is this actually an issue? Using uBlock Origin on firefox I don't think I have seen a youtube-forced ad in YEARS. And then adding in the SponsorBlock extension gets me around anything embedded into the vid…"
+   },
+   {
+    "title": "长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4",
+    "url": "https://www.ithome.com/1/033/320.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T12:20+08:00",
+    "snippet": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，长城汽车官宣发布行业首个全场景物理 AI 操作系统 —— Coffee AIOS 4。 据介绍，长城 Coffee AIOS 4 主打“ 一个大脑 三位一体 ”， 含辅助驾驶、智能座舱、智慧服务三大板块 。 长城汽车智能化负责人姜海鹏表示，“一个大脑”指的是 Master Agent（简称“MA”），支持全域感知、深度思考、协同行动、持续进化等。 智能座舱方面，Coffee AIOS 4 具备“有眼力，有交代，…"
+   },
+   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-27T04:03+08:00",
+    "snippet": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+   },
+   {
+    "title": "Quoting Jack Despain Zhou",
+    "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+    "source": "Simon Willison",
+    "time": "2026-11-26T23:09+08:00",
+    "snippet": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles fr…"
+   },
+   {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "Hugging Face Blog",
+    "time": "2026-11-26T19:37+08:00",
+    "snippet": ""
+   },
+   {
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "source": "The Verge AI",
+    "time": "2026-11-26T17:54+08:00",
+    "snippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of …"
+   },
+   {
+    "title": "Intel One Mono font (2023)",
+    "url": "https://github.com/intel/intel-one-mono",
+    "source": "Hacker News",
+    "time": "2026-11-26T18:11+08:00",
+    "score": 487,
+    "comments": 245,
+    "discussion": "https://news.ycombinator.com/item?id=50653667",
+    "snippet": "--- Top Comments --- [bayesnet]: > Identifying the typographically underserved low-vision developer audience… Very strong recommendation for [Atkinson Hyperlegible Mono]( https://www.brailleinstitute.org/freefont/ ) (and Next for that matte…"
+   },
+   {
+    "title": "纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿",
+    "url": "https://www.ithome.com/1/033/309.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T11:54+08:00",
+    "snippet": "IT之家 11 月 27 日消息，科技媒体 Windows Latest 今天（11 月 27 日）发布博文，报道称在《务实工程师》（The Pragmatic Engineer）播客节目中，微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）坦言，公司已放缓招聘应届毕业生及初级岗位的速度。 在节目中，纳德拉表示，在 AI 重塑工作方式的过程中，企业首先要将内部人员重新安排到合适的岗位，之后才会考虑行业招聘和校园招聘。这段言论在网络上引发广泛讨论，也让“AI 时代应…"
+   },
+   {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "source": "TechCrunch AI",
+    "time": "2026-11-27T00:00+08:00",
+    "snippet": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+   },
+   {
+    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+    "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+    "source": "Simon Willison",
+    "time": "2026-11-26T14:08+08:00",
+    "snippet": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today …"
+   },
+   {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "source": "Hugging Face Blog",
+    "time": "2026-11-26T13:05+08:00",
+    "snippet": ""
+   },
+   {
+    "title": "Tell HN: Happy Thanksgiving",
+    "url": "https://news.ycombinator.com/item?id=50655664",
+    "source": "Hacker News",
+    "time": "2026-11-26T22:26+08:00",
+    "score": 652,
+    "comments": 139,
+    "snippet": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! --- Top Comments --- [tito]: I do the following Thanksgiving assignment each year, and find it really fulfilling. Passing this on fr…"
+   },
+   {
+    "title": "全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型",
+    "url": "https://www.ithome.com/1/033/283.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T11:47+08:00",
+    "snippet": "IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，深蓝汽车董事长邓承浩宣布，全新深蓝 S07/L07 AI 激光版车型将 行业首批开放域端到端豆包大模型 。 邓承浩介绍称，过去的车载语音是听懂听清到理解再到执行的三步流水线，用户对它说的每一句话，都必须是它懂的认识的话，今天这条路重写了，你的语音动作和实时场景同时进入到系统，多模态感知大模型能看懂你的意图。 IT之家获悉，全新深蓝 S07/L07 AI 激光版车型全系搭载金钟罩电池 + 宁德时代电芯。"
+   },
+   {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+    "source": "Simon Willison",
+    "time": "2026-11-26T13:08+08:00",
+    "snippet": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I as…"
+   },
+   {
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "source": "Hacker News",
+    "time": "2026-11-27T05:47+08:00",
+    "score": 430,
+    "comments": 234,
+    "discussion": "https://news.ycombinator.com/item?id=50660180",
+    "snippet": "--- Top Comments --- [cliche]: > When implementing an idea becomes so easy, it’s perhaps more important than ever to occasionally ask myself whether it’s actually worth implementing in the first place. Wish I had this restraint. I’ve been v…"
+   },
+   {
+    "title": "腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作",
+    "url": "https://www.ithome.com/1/033/282.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T11:44+08:00",
+    "snippet": "IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。 腾讯混元表示，通过该模型生成的 几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高 ，可以为艺术家、建模师、技术美术和 3D 内容创作者提供高质量的 3D 资产。 Hy3D 3.6 作为原生 3D 生成模型，在训练阶段 直接“学习” 3D 资产中几何、纹理与材质的分布 ，让模型生成可以进入专业…"
+   },
+   {
+    "title": "Nextcloud Office Desktop app",
+    "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+    "source": "Hacker News",
+    "time": "2026-11-26T19:50+08:00",
+    "score": 410,
+    "comments": 209,
+    "discussion": "https://news.ycombinator.com/item?id=50654289",
+    "snippet": "--- Top Comments --- [nathan_phoenix]: Beware that this is a controversial fork of ONLYOFFICE. Also, being developed by a consortium of companies doesn't sound too reassuring, seems bureaucratic... [ModernTimes]: Seems to be an embedded Chr…"
+   },
+   {
+    "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
+    "url": "https://www.ithome.com/1/033/280.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T11:39+08:00",
+    "snippet": "IT之家 11 月 27 日现场消息，在 11 月 26 日晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统 。 深蓝汽车董事长邓承浩现场透露，全新深蓝 S07 AI 激光版和即将上市的全新深蓝 L07 AI 激光版是行业首批搭载华为星驰驾驶辅助解决方案的车型。 在今日的 2026 广州车展上，邓承浩宣布，2027 年华为引望星驰辅助驾驶正式开通订阅时， 所有已售“AI 激光版”车辆均将免费 OTA 升级为星驰辅助…"
+   },
+   {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "source": "Hacker News",
+    "time": "2026-11-26T17:44+08:00",
+    "score": 282,
+    "comments": 237,
+    "discussion": "https://news.ycombinator.com/item?id=50653477",
+    "snippet": "--- Top Comments --- [Schnitz]: The sad part is that this won’t even work. People will just have the agent operate a browser to send email and it’ll be unnecessarily messy and wasteful. [perdy]: They are concerned about \"human confirmation\"…"
+   },
+   {
+    "title": "一句话就能剪辑视频了，豆包工作独家接入剪映官方插件",
+    "url": "https://www.ithome.com/1/033/208.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T10:33+08:00",
+    "snippet": "IT之家 11 月 27 日消息，今天（27 日）上午，豆包官方宣布，豆包工作独家接入剪映官方插件，一句话就能剪辑视频了。 该功能支持 一句话剪辑与多轨编辑 。用户可将视频素材交给豆包工作，用一句话描述需求并调用剪映完成剪辑，还可继续通过对话修改，或打开多轨草稿进行细调。 ‎据介绍，此次接入将自然语言交互与剪映的视频剪辑能力结合。以常见的口播视频为例，拍摄后删减重复内容、处理读错或嘴瓢的部分、添加字幕以及调整字幕字体和字号，通常涉及多项操作。用户现在可以 一句话描述这些要求，…"
+   },
+   {
+    "title": "Moat: OpenRouter replacement",
+    "url": "https://commandcode.ai/moat",
+    "source": "Hacker News",
+    "time": "2026-11-26T14:32+08:00",
+    "score": 262,
+    "comments": 150,
+    "discussion": "https://news.ycombinator.com/item?id=50652184",
+    "snippet": "--- Top Comments --- [jedjonesuk]: Man they sure don't give a lot of detail on where these requests are being served? Is it them hosting? Is it the Chinese labs? Where are the servers located? This is effectively a non starter for any org t…"
+   },
+   {
+    "title": "与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市",
+    "url": "https://www.ithome.com/1/033/203.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T10:21+08:00",
+    "snippet": "IT之家 11 月 27 日消息，《科创板日报》今天（27 日）上午独家获悉，小米 AI 眼镜 2 代或将于 12 月中旬 与小米 18 标准版手机同步发布 ，并于当天上市开售。 据悉，小米 AI 眼镜 2 代包括 Q95 Pro、Q 95Pro 多色版本 (电致变色镜片版本，提供四档镜片调节)、Q95 显示版本。 IT之家注： 小米首款 AI 眼镜于去年 6 月发布 ，定价 1999 元起。 该产品重量 40g，可选三种镜框，支持线下和线上配镜。该眼镜支持第一人称相机，搭载…"
+   },
+   {
+    "title": "AMD-specific fork of llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "source": "Hacker News",
+    "time": "2026-11-27T01:11+08:00",
+    "score": 307,
+    "comments": 75,
+    "discussion": "https://news.ycombinator.com/item?id=50657265",
+    "snippet": "--- Top Comments --- [rao-v]: Early in 2025 a bunch of folks realized that AMD made a bunch of cards with mediocre compute but incredibly fast HBM2 memory in their circa 2018 gfx906 datacenter series, so you could get 32GB VRAM capable of i…"
+   },
+   {
+    "title": "微软 AI 负责人警告：我们正跨越 AI 危险门槛，安全和对齐是当前最重要任务",
+    "url": "https://www.ithome.com/1/033/191.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T09:59+08:00",
+    "snippet": "IT之家 11 月 27 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）于 11 月 25 日在 X 平台发布推文， 示警称 AI 行业“正在跨越一个门槛”，安全与对齐研究必须被置于优先地位。 IT之家附上相关推文截图如下： 根据推文的上下文内容，苏莱曼推文的“门槛”是指 AI 能力即将越过人类能有效监督、控制和安全部署的边界。在 AI 开始具备自主发现漏洞、跨系统操作、隐藏真实推理、甚至规避安全护栏的能力时，行业不能再用“等它更聪明后再处…"
+   },
+   {
+    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "source": "Hacker News",
+    "time": "2026-11-27T01:47+08:00",
+    "score": 240,
+    "comments": 103,
+    "discussion": "https://news.ycombinator.com/item?id=50657645",
+    "snippet": "--- Top Comments --- [avodonosov]: Initially he only included a 2% margin - $260 over the around $13,000 requested by the fake ransomware group as the lowest possible price. And that $260 might have been just to account for bitcoin volatili…"
+   },
+   {
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "source": "Hacker News",
+    "time": "2026-11-27T05:08+08:00",
+    "score": 292,
+    "comments": 65,
+    "discussion": "https://news.ycombinator.com/item?id=50659841",
+    "snippet": "--- Top Comments --- [comrade1234]: Lahore is beautiful. I was spending a lot of time in India for work, Delhi and Hyderabad. You get used to the pollution and garbage everywhere. My wife had a business meeting in Lahore so I went to Amrits…"
+   },
+   {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "url": "https://arxiv.org/abs/2611.34924",
+    "source": "Hacker News",
+    "time": "2026-11-26T13:37+08:00",
+    "score": 226,
+    "comments": 85,
+    "discussion": "https://news.ycombinator.com/item?id=50651863",
+    "snippet": "--- Top Comments --- [Kotlopou]: The r/physics subreddit mods put up a response to this: https://www.reddit.com/r/Physics/comments/1y62pqj/clarificat... Basically \"there's a lot of discussion about the paper, but none of it is about quantum…"
+   },
+   {
+    "title": "Company Culture = Slack Emoji ÷ √Headcount",
+    "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "source": "Hacker News",
+    "time": "2026-11-27T04:49+08:00",
+    "score": 185,
+    "comments": 73,
+    "discussion": "https://news.ycombinator.com/item?id=50659640",
+    "snippet": "--- Top Comments --- [locallylinear]: In all seriousness, a related way I’ve observed culture differences in tech companies is in the presence, or lack thereof, of slack channels for random non work topics At one company i worked there were…"
+   },
+   {
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "source": "Hacker News",
+    "time": "2026-11-27T09:13+08:00",
+    "score": 160,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50661646",
+    "snippet": "--- Top Comments --- [dghughes]: I bought a Synology NAS two years ago and put in three WD Red Pro 18TB drives. It's a five bay NAS I was planning on getting two more drives a year later and then a new NAS and drives as a backup. Now one si…"
+   },
+   {
+    "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+    "url": "https://michidk.github.io/sidebyside/",
+    "source": "Hacker News",
+    "time": "2026-11-26T23:00+08:00",
+    "score": 123,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50656036",
+    "snippet": "--- Top Comments --- [hobofan]: Very cool! I'm strongly assuming this is built in the basis of trynix and unkernel that have been posted here the past days. [setheron]: so funny, I just published https://github.com/fzakaria/tabc and wrote a…"
+   },
+   {
+    "title": "Rvoip: VoIP stack in Rust",
+    "url": "https://github.com/eisenzopf/rvoip",
+    "source": "Hacker News",
+    "time": "2026-11-27T03:18+08:00",
+    "score": 105,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50658632",
+    "snippet": "--- Top Comments --- [ubercow]: I wonder how this stacks up versus https://crates.io/crates/rsipstack [catlifeonmars]: How does this compare, to, say asterisk and rtpengine? [alexanderabakah]: Is there any benchmark results ? Like how does …"
+   }
+  ],
+  "GitHub热门开源": [
+   {
+    "title": "elementalsouls/Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 1597,
+    "stars_total": "24,845",
+    "language": "Python",
+    "snippet": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+   },
+   {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 1046,
+    "stars_total": "211,086",
+    "language": "TypeScript",
+    "snippet": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+   },
+   {
+    "title": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 955,
+    "stars_total": "73,985",
+    "language": "HTML",
+    "snippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+   },
+   {
+    "title": "XiaoYouChR/Ghost-Downloader-3",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 889,
+    "stars_total": "19,301",
+    "language": "Python",
+    "snippet": "The only downloader you need. 下载器的集大成者。"
+   },
+   {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 854,
+    "stars_total": "327,618",
+    "language": "Shell",
+    "snippet": "An agentic skills framework & software development methodology that works."
+   },
+   {
+    "title": "zhouxiaoka/autoclip",
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 774,
+    "stars_total": "17,096",
+    "language": "Python",
+    "snippet": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
+   },
+   {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 759,
+    "stars_total": "75,884",
+    "language": "Python",
+    "snippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+   },
+   {
+    "title": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 746,
+    "stars_total": "66,493",
+    "language": "Python",
+    "snippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+   },
+   {
+    "title": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 702,
+    "stars_total": "71,795",
+    "language": "Python",
+    "snippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+   },
+   {
+    "title": "mjmirza/app-store-compliance",
+    "url": "https://github.com/mjmirza/app-store-compliance",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 562,
+    "stars_total": "7,113",
+    "language": "Shell",
+    "snippet": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), an…"
+   },
+   {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 525,
+    "stars_total": "79,052",
+    "language": "TypeScript",
+    "snippet": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+   },
+   {
+    "title": "Tracer-Cloud/opensre",
+    "url": "https://github.com/Tracer-Cloud/opensre",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 327,
+    "stars_total": "15,877",
+    "language": "Python",
+    "snippet": "The open-source agent for CI/CD reliability."
+   },
+   {
+    "title": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 309,
+    "stars_total": "13,343",
+    "language": "TypeScript",
+    "snippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+   },
+   {
+    "title": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 270,
+    "stars_total": "19,826",
+    "language": "TypeScript",
+    "snippet": "Cursor plugin specification and official plugins"
+   },
+   {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 176,
+    "stars_total": "12,844",
+    "language": "C++",
+    "snippet": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+   },
+   {
+    "title": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-27T12:32+08:00",
+    "stars_today": 150,
+    "stars_total": "33,546",
+    "language": "C",
+    "snippet": "The official NGINX Open Source repository."
+   }
+  ],
+  "影视资讯": [
+   {
+    "title": "Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan Set New Films With Bhushan Kumar’s T-Series (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/news/laxman-utekar-rajkumar-periasamy-vishnuvardhan-films-tseries-1236958689/",
+    "source": "Variety",
+    "time": "2026-11-27T12:30+08:00",
+    "snippet": "Directors Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan are set to collaborate with Indian studio T-Series chair and managing director Bhushan Kumar on three new films. Title, story, cast and production details have not been disclosed…"
+   },
+   {
+    "title": "凉茶里的西关烟火！听粤产电影《二十四味》主创细说家事悲欢 - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGJYb0JsdUZRbDFPMWF0YVR5VDA5SGNJSG1BRjdURzF4TndPNDBaMmpWLUFNR0d4a1NZYV9tX0FrN1B4d3hWQXEwRFRUdExJb2N5QXRfUWRnN0pxaURtdFFVSWkyM29KdmFjY3VBMDA1TldrZ29ROS11bDh3Y3dUOVJtVTZHQlh6VFdV?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-27T12:09+08:00",
+    "snippet": "凉茶里的西关烟火！听粤产电影《二十四味》主创细说家事悲欢 Sohu"
+   },
+   {
+    "title": "Cape Fear Climbs to Ninth on Apple TV Chart - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWJNMWRzd05zTkN2aTMwdVlibjZrclFCLWk2X1l5dnI0bTBvdWp2QkZVZTFlUTVIb25uMGlRcXVWM08tTmx3QmhUNlFxaVp0SXIyUVF3Vi1vQWRkN2VjNzl3VGZBM2NXSm9QTDJWa010emNjMWMwaG5vVklZUzBvT0VMbVl4azVYLUE?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-27T11:53+08:00",
+    "snippet": "Cape Fear Climbs to Ninth on Apple TV Chart Wisevoter"
+   },
+   {
+    "title": "上映多时票房不到3000元，李乃文新片惨败，被好莱坞动画打懵了 - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2NpR2R0LXhFX1dWQlZUeG5LQlNPYm0zWWFaYTNJZHc1ZzJOQW4wcjR2cUxMangtOE1HOXQtMjZTcG1GcUM3eGZEdGNwRkNqVVVqaVlXYnRYYmdnd0YzNXd1ckhrZF9QYTl6RnRMZW9PZUVJMmxpaklLSUlHLTdtT3dtREEwTm5UcE9laQ?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-27T11:04+08:00",
+    "snippet": "上映多时票房不到3000元，李乃文新片惨败，被好莱坞动画打懵了 Sohu"
+   },
+   {
+    "title": "Julianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season",
+    "url": "https://deadline.com/2026/11/julianne-hough-stylist-fan-backlash-dwts-wardrobe-1237234193/",
+    "source": "Deadline",
+    "time": "2026-11-27T10:34+08:00",
+    "snippet": "Fans had a lot to say about this season of Dancing with the Stars — and not just about who should or shouldn’t have gone home before the Nov. 24 finale. Julianne Hough broke out of her comfort zone this fall by donning “super extravagant an…"
+   },
+   {
+    "title": "Melissa Gilbert Expresses “Undying Gratitude” After Timothy Busfield’s Child Sex Abuse Case Dismissed",
+    "url": "https://www.hollywoodreporter.com/news/general-news/melissa-gilbert-gratitude-timothy-busfield-case-dismissed-1236764064/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-27T09:57+08:00",
+    "snippet": "\"This Thanksgiving I’m incredibly grateful for all those who came running toward us this year,\" she wrote in a lengthy Instagram post."
+   },
+   {
+    "title": "‘Blade Runner 2099’ Episode 4 recap: Memory palace",
+    "url": "https://decider.com/2026/11/26/blade-runner-2099-episode-4-recap/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-27T07:00+08:00",
+    "snippet": "As miserable as our heroes may be, I’m just happy to be here."
+   },
+   {
+    "title": "Netflix Lands Streaming Debut of Ultraman 60th Anniversary Doc ‘The Origin of Ultraman’",
+    "url": "https://www.whats-on-netflix.com/news/the-origin-of-ultraman-netflix-release-date/",
+    "source": "What's on Netflix",
+    "time": "2026-11-27T03:38+08:00",
+    "snippet": "Join Guillermo del Toro and Hideo Kojima as they explore the global impact of Japan’s most iconic hero in a new documentary coming to Netflix."
+   },
+   {
+    "title": "How Disney’s ‘Hexed’ Reinvents the Witch Through Animation",
+    "url": "https://www.indiewire.com/features/animation/hexed-writers-directors-disney-animated-movie-1235230741/",
+    "source": "IndieWire",
+    "time": "2026-11-27T03:00+08:00",
+    "snippet": "Writers Jared Bush and Dana Ledoux Miller, plus directors Fawn Veerasunthorn and Josie Trinidad, tell IndieWire about the magic powering Disney's latest film."
+   },
+   {
+    "title": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+    "url": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/",
+    "source": "Variety",
+    "time": "2026-11-27T09:00+08:00",
+    "snippet": "SPOILER ALERT: This article contains major spoilers for the finale of “Blade Runner 2099,” now streaming on Prime Video. In the finale of “Blade Runner 2099,” the future of humanity is anything but certain. After discovering that the stolen…"
+   },
+   {
+    "title": "金鸡里的AI新面孔：抖音AI创作者如何把短片拍成下一部电影？ - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa09XRjZfYUlZaEZUdGFOcHlZRDVadjc5RzNEd2JBMmtkYkRkQ1lnZW4yMEpGTm5IUkx2Ti1GWGJXQ1U1SG9wTHIyN1hTZnJicW04SFc1a2VLMUlOeWpPTEdrcFhOMktrdHRTNXBQZDJuRHM2ZnROVENERjctZTgtLWo2U0ZtMlJQ?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-27T11:56+08:00",
+    "snippet": "金鸡里的AI新面孔：抖音AI创作者如何把短片拍成下一部电影？ Sohu"
+   },
+   {
+    "title": "Apple TV’s Remake Of Robert De Niro Thriller Hits Surprise Streaming High In New 2026 Chart - ScreenRant",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlBDSW4zNkhQNktibEpNd0lTQUUtUG5seG5zdWw5Ukh0YmliRjRxV09mU2RjT2w0UGZwNE1SZmZ0VnMtZ0JwYjQ2dnJyWWpGM3Ywa0dqSk1XZEpXWjlyelFaUWdyRWpUbnVVbWFSdG1mLXZZQV8tTFRIQk9jZVcxVDRzYmE?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-27T11:00+08:00",
+    "snippet": "Apple TV’s Remake Of Robert De Niro Thriller Hits Surprise Streaming High In New 2026 Chart ScreenRant"
+   },
+   {
+    "title": "电影票房超百亿的男演员排行，五位明星我们来看一下！ - 手机网易网",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80MENZNEF1TGVPcmVTcHpQSjRORHZaSEdoeTNIOTVxZUVrZE1lLWE4eWpVVTJvamdwdjFVY3M4MXl2eUpGOFJvMjhPanc0cW5rSlZtaw?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-27T08:23+08:00",
+    "snippet": "电影票房超百亿的男演员排行，五位明星我们来看一下！ 手机网易网"
+   },
+   {
+    "title": "Melissa Gilbert Gives Thanks To Those Who “Spoke Up, Testified” In Support Of Husband Timothy Busfield",
+    "url": "https://deadline.com/2026/11/melissa-gilbert-gives-thanks-husband-timothy-busfield-1237234187/",
+    "source": "Deadline",
+    "time": "2026-11-27T09:32+08:00",
+    "snippet": "It was an extra special Thanksgiving holiday for Melissa Gilbert. The Little House on the Prairie actress gave a shoutout Thursday to all those “who checked in … spoke up, testified and wrote letters” after her husband Timothy Busfield was …"
+   },
+   {
+    "title": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-27T04:47+08:00",
+    "snippet": "He also worked with Steven Spielberg on ‘Jurassic Park,’ ‘Minority Report,’ ‘The Color Purple’ and ‘Twister’ and headed production at Amblin Entertainment."
+   },
+   {
+    "title": "‘The Hunting Wives’ Season 2, Episode 4 recap: Shoot to kill",
+    "url": "https://decider.com/2026/11/26/the-hunting-wives-season-2-episode-4-recap/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-27T06:00+08:00",
+    "snippet": "We like a show on which anything feels possible."
+   },
+   {
+    "title": "‘Good Sex’ Natalie Portman Rom-Com: Netflix Confirms Spring 2027 Release Window",
+    "url": "https://www.whats-on-netflix.com/news/good-sex-netflix-movie-spring-2027-release/",
+    "source": "What's on Netflix",
+    "time": "2026-11-27T00:21+08:00",
+    "snippet": "Filming is ongoing for Lena Dunham and Natalie Portman's rom-com 'Good Sex' at Netflix."
+   },
+   {
+    "title": "‘The Hunting Wives’ Review: Season 2 Reloads Without Slowing Down in Netflix’s Delirious Soap",
+    "url": "https://www.indiewire.com/criticism/shows/hunting-wives-season-2-review-netflix-reloads-1235230961/",
+    "source": "IndieWire",
+    "time": "2026-11-27T02:00+08:00",
+    "snippet": "Rebecca Cutter's high-key camp comedy and low-key conservative satire (or vice versa) follows frenemies-turned-lovers Sophie (Brittany Snow) and Margo (Malin Åkerman) as they weigh their lavish lives in suburban Texas against the forbidden …"
+   },
+   {
+    "title": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
+    "url": "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
+    "source": "Variety",
+    "time": "2026-11-27T07:33+08:00",
+    "snippet": "Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died. He was 91. Molen’s death was announced by his great-niece, Rachel Lorraine Pullan, in an Instagram post on Sunday. “This morning my great-un…"
+   },
+   {
+    "title": "老牌IP拓展 - 新浪财经_金融信息服务商",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uME84d3VxajJOMjYtdWZmbm9SWDBQQ1F2TFBHbUh5c29ZMjZ1Z3k4OGpIMnlBRmtVekZCSGo5YnpjdFc5Y0pNUnVjSlFpWVJqcDc5VGRBZy0wekFyTG5PaXBuQlhjelR0NDBLdUlzUXo2YkZiQmFGSw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-27T11:45+08:00",
+    "snippet": "老牌IP拓展 新浪财经_金融信息服务商"
+   },
+   {
+    "title": "Apple TV’s 2-Part Detective Series Officially Returns in 2026 - Collider",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUm9HeV9qMDFLU0xMZy0taVVLb1VaemRtXzItaWhneF9GODlIOEpFQU05T0hld05jaVMtcW05UjJRWXNoZ19IeG9JVHdzYkdRWlRTSEVkQ1VVX2RQdnl1c3p2VzhmQWJkbUY5a3IwNm5NOVdraTRlZDR5VVpNUGdSVTdKNA?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-27T09:01+08:00",
+    "snippet": "Apple TV’s 2-Part Detective Series Officially Returns in 2026 Collider"
+   },
+   {
+    "title": "在河内国际电影节上庆祝票房超过 2000 亿越南盾的影片。 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQk5yajlTR1lwX2RZa0FuLS1YdjdYMzFqTnNlVTJxY3VWb0lrN0xldmpxanFUeXc5VWh0ZUVXQmRnbi1LZ3hDci1vZHRMblZfeENrR3ptaDUtMW83VkRhSEVycmg3UXlmeHNGOWlURUtzUDNEVWFvcGdUSmRZTkFXMmlEQTNuMHVCcWhjY1dRRDItbFVlNGdEbXFR?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-26T21:30+08:00",
+    "snippet": "在河内国际电影节上庆祝票房超过 2000 亿越南盾的影片。 Vietnam.vn"
+   },
+   {
+    "title": "Gerald R. Molen Dies: Oscar-Winning ‘Schindler’s List’ Producer Was 91",
+    "url": "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/",
+    "source": "Deadline",
+    "time": "2026-11-27T08:33+08:00",
+    "snippet": "Gerald R. Molen, an Academy Award-winning producer behind Steven Spielberg’s Amblin Entertainment, has died. He was 91. On Sunday, Molen’s niece Rachel Pullan announced that he died earlier that day. “This morning my great uncle, Gerald R. …"
+   },
+   {
+    "title": "‘A Paw Patrol Christmas’: When and Where to Stream the Animated Holiday Special Online Free",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-a-paw-patrol-christmas-stream-cbs-special-online-free-1236436268/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-27T02:40+08:00",
+    "snippet": "The pups are returning to primetime for a special Christmas event."
+   },
+   {
+    "title": "Is tonight’s NFL Thursday night game on Prime Video? Channel, where to watch Chiefs vs. Bills",
+    "url": "https://decider.com/2026/11/26/thursday-night-football-game-what-channel-prime-video-where-watch-chiefs-bills/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-27T05:30+08:00",
+    "snippet": "We'll be glued to our seats for this one."
+   },
+   {
+    "title": "Every Board Game Adaptation In The Works at Netflix",
+    "url": "https://www.whats-on-netflix.com/coming-soon/netflix-board-game-adaptations-list/",
+    "source": "What's on Netflix",
+    "time": "2026-11-27T00:10+08:00",
+    "snippet": "We provide an updated look at every board game coming to Netflix, including new details on the CATAN movie and the Clue competition series."
+   },
+   {
+    "title": "How Much of Quentin Tarantino’s Scrapped Film ‘The Movie Critic’ Made It Into ‘The Further Mis-Adventures of Cliff Booth’?",
+    "url": "https://www.indiewire.com/features/commentary/quentin-tarantino-the-movie-critic-cliff-booth-1235230943/",
+    "source": "IndieWire",
+    "time": "2026-11-27T01:00+08:00",
+    "snippet": "Parallels between the two projects are obvious, so allow us to speculate on where one script ended and another began."
+   },
+   {
+    "title": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
+    "url": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/",
+    "source": "Variety",
+    "time": "2026-11-27T06:34+08:00",
+    "snippet": "Asha Bhosle and S. Janaki, two of Indian cinema’s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S. Chithra and actor-filmmaker Suhasini Maniratnam. Bhosle, a two…"
+   },
+   {
+    "title": "当血肉开始重塑面容，这场年度惊悚大片今日正式上映|泥面人|北青报|肖扬|惊悚_新浪新闻 - 新浪网",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lWHlPSnliS1dtejZyR0g0QVEwelUzSHRxVDN6NVNIWUNvbnhacGEyNEkzT2pfWDRGQzFudDNnUEV4WU9oUHlLMmQ2VXBjcURmVnFRNWNwa1BjWVEzSHFFZS1tbw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-27T11:37+08:00",
+    "snippet": "当血肉开始重塑面容，这场年度惊悚大片今日正式上映|泥面人|北青报|肖扬|惊悚_新浪新闻 新浪网"
+   },
+   {
+    "title": "33-Episode Apple TV Masterpiece Has One Of Its Best Casts & It's The Perfect Binge - ScreenRant",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HcVJNb0V2d0xlZ3F5T0pQdFJxYldkRzRWdjNpZ2lwUFVkZ2dVam4yNXBSSGpWQm1EcHVzNWl0MnBWRThmRTQxN3g4N3h1YjVGenVKeldOdWw2M25IQnVYYWtpbC1mbTFzVUc3TFF3SmlrcFk3N0E?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-27T07:30+08:00",
+    "snippet": "33-Episode Apple TV Masterpiece Has One Of Its Best Casts & It's The Perfect Binge ScreenRant"
+   },
+   {
+    "title": "《编个丈夫》12月5日上映，已有《复仇者联盟5》等超50部影片定档贺岁档 - 上观新闻",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QM3IzeDZuXzdpbUZJM2MwOVdxQ3VtSG9LR2JYNjBsdkpwTjk3LTRKcTRJT0RmWVMwN0p4clEycTg3Vm1qa0NhZ0swU0hEbDhrZGw0QlNsRVc0UQ?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-26T19:09+08:00",
+    "snippet": "《编个丈夫》12月5日上映，已有《复仇者联盟5》等超50部影片定档贺岁档 上观新闻"
+   },
+   {
+    "title": "‘Percy Jackson’s Courtney B. Vance On “Doing Right By” Late Lance Reddick After Taking Over Zeus Role",
+    "url": "https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178/",
+    "source": "Deadline",
+    "time": "2026-11-27T07:33+08:00",
+    "snippet": "As the gods and demigods of Percy Jackson and the Olympians return for Season 3, Courtney B. Vance had a mighty toga to fill. The Golden Globe nominee, who returns after taking over the role of Zeus from the late Lance Reddick, remembered t…"
+   },
+   {
+    "title": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-27T01:51+08:00",
+    "snippet": "Lionsgate's sixth film in its dystopian franchise looks to win its sophomore frame after notching series records with its debut Monday and Tuesday."
+   },
+   {
+    "title": "‘The Mosquito Bowl’ true story: How accurate is the Netflix movie?",
+    "url": "https://decider.com/2026/11/26/the-mosquito-bowl-true-story-john-mclaughry-tony-bukovich/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-27T05:00+08:00",
+    "snippet": "This new Netflix movie recounts the history of a real football game played during WWII."
+   },
+   {
+    "title": "Where Was ‘The Hunting Wives’ Seasons 1-2 Filmed? Complete Filming Locations Guide",
+    "url": "https://www.whats-on-netflix.com/news/the-hunting-wives-season-1-2-filming-locations/",
+    "source": "What's on Netflix",
+    "time": "2026-11-26T23:56+08:00",
+    "snippet": "North Carolina is used to depict the Texan town of Maple Brook in The Hunting Wives for seasons 1-2 -- but not for much longer."
+   },
+   {
+    "title": "Robert Aramayo’s Star-Making Turn in ‘I Swear’ Is Already Award-Winning, Now He Just Wants People to See It",
+    "url": "https://www.indiewire.com/features/interviews/robert-aramayo-i-swear-baftas-john-davidson-tourettes-1235190387/",
+    "source": "IndieWire",
+    "time": "2026-11-27T00:00+08:00",
+    "snippet": "The \"I Swear\" star nabbed two BAFTAs at this year's fraught ceremony, but as he tells IndieWire, the next step isn't more glory — it's just more audience members, more knowledge, and hopefully more understanding."
+   },
+   {
+    "title": "Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character’s Motivations",
+    "url": "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/",
+    "source": "Variety",
+    "time": "2026-11-27T06:30+08:00",
+    "snippet": "“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film. Plemons plays Plutarch Heavensbee, a Capitol insider, who becomes a key figure in…"
+   },
+   {
+    "title": "电影《金哲》热映 质朴故事唤醒观众童年回忆与乡愁 - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmpDTVNRQnJsdW81a1dIZ05IRVh2c3dsMnFVaUVIOGNMVmpSZlNOMENoNDJhckJWelBidUItbkN4UWI1SlFwbkhTX01SOG8zSW9RNEtpVFc3aXJXNFEzbHhVbHFoOGxGT3ktYnpuNEFSUjZRbkhEcnJUdWtBVjdiNVljcEJsTk5XUGZXQg?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-27T11:28+08:00",
+    "snippet": "电影《金哲》热映 质朴故事唤醒观众童年回忆与乡愁 Sohu"
+   },
+   {
+    "title": "What to watch on streaming: what's new today on Netflix, Prime Video, Disney+ and more - Radio Times",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUl9hZ0JSTlNzd0FCRVRQWGhEeDdDenlvRVRTQnJXWW41bjRXSDhCc2wzYzdvbnhuRVE5eFlhX3J5RFZkaUNiU3lNVldURzlGajBmN0FSZWd3YWZfeThaajk4akc2SWk4d3pKeFVkV2xGMnl2QjRDWVpFX0hJcUVoVkdHbFFuN1VWMmlVUEhwVTM4WG03anM5bVozYlM1OUZ0UllLa0NFeGFRaXUzdGw2dWVNZDNTcUtEcVhR?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-27T07:28+08:00",
+    "snippet": "What to watch on streaming: what's new today on Netflix, Prime Video, Disney+ and more Radio Times"
+   },
+   {
+    "title": "从网文IP到虚拟艺人：AI如何重排影视产业链的价值版图 - Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGZzUC16ZHdfOHl5SXR6OTRxR08yVmlvN1VfeG43SHBTTklmci1IY253UGprRmg5OGl4TFB3ZXV5bHpBOFlaRVRON25LY1paSU5CWThfTlVEbG5aUldTVVBVX2NoNlBiSFdvamVGRkZOakRyQ3YxamduaVN0T1NPOEI2YUVJZkRw?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-26T17:43+08:00",
+    "snippet": "从网文IP到虚拟艺人：AI如何重排影视产业链的价值版图 Sohu"
+   }
+  ],
+  "国际政治": [
+   {
+    "title": "為何特朗普新一輪關稅的威脅不如以往？",
+    "url": "https://www.bbc.com/zhongwen/articles/c3j4rw1r4p29o/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-27T12:22+08:00",
+    "snippet": "面對特朗普首輪關稅攻勢，世界各國已調整貿易流向，繞過美國的關稅壁壘。如今，各國更將目光投向特朗普卸任後的時代。"
+   },
+   {
+    "title": "Trump demands probe of GDP data released before midterms - The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3pXd1RVMmVmQnYxVGFENWZZTmxtZHJhV3dydy1WUWJXNDUzbDIxeXJzV0llbUVYNHVhNGJCcEg3d3RTY1hkUmw2ZUM4TzdDSzZTZzFwUFlrMUlKVXdVYXZvQWJGaUNjTkVVYnFrOHRRR2ExR0d0ZmlwWHViRV9xZGo5YlpKbHdGNXdFM1BxNGVaenV4UFF0UlNaM3Bqdw?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-27T12:21+08:00",
+    "snippet": "Trump demands probe of GDP data released before midterms The Financial Express"
+   },
+   {
+    "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+    "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-27T12:06+08:00",
+    "snippet": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border."
+   },
+   {
+    "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-27T11:28+08:00",
+    "snippet": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
+   },
+   {
+    "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+    "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+    "source": "The Guardian World",
+    "time": "2026-11-27T11:14+08:00",
+    "snippet": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a multitude of weather extremes fore…"
+   },
+   {
+    "title": "UK to pay 'participation' fee to deliver EU deals - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzZFRnZ2JMTjc0SmVNUjNLWHhwSVcwcnhCSEZjWlBqaXpfazAzYXlidUM5OG9nVzNWZUJvazVyS3dKT2ozSjlYVElnUElvdDREMHFReUdlSF84RVE?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-27T07:17+08:00",
+    "snippet": "UK to pay 'participation' fee to deliver EU deals BBC New UK-EU treaty has 10-year termination clause BBC Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go? The New York Times Britain’s EU deal: a user’s guide The Econom…"
+   },
+   {
+    "title": "Black Friday hype stems from a desire 'to be part of a collective event', expert says",
+    "url": "https://www.france24.com/en/video/20261126-black-friday-hype-stems-from-a-desire-to-be-part-of-a-collective-event-expert-says",
+    "source": "France 24",
+    "time": "2026-11-27T06:54+08:00",
+    "snippet": "Once a strictly US affair, it's become a truly global phenomenon. From shoppers hunting for bargains in Louisiana, to queues forming outside stores in Venezuela, the Black Friday sales event has become the biggest day of the year for retail…"
+   },
+   {
+    "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+    "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+    "source": "NYT World",
+    "time": "2026-11-27T05:40+08:00",
+    "snippet": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group."
+   },
+   {
+    "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+    "source": "NPR World",
+    "time": "2026-11-26T21:47+08:00",
+    "snippet": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
+   },
+   {
+    "title": "失去伊朗石油供應，中國小型煉油廠如何應對？",
+    "url": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-27T11:35+08:00",
+    "snippet": "美國對伊朗實施海上封鎖，迫使長期依賴廉價伊朗石油的中國獨立煉油廠轉向伊拉克等產油國，面臨成本上升和經營虧損的壓力。即使封鎖解除，伊朗能否重新贏得這些中國買家，仍取決於油價及美國的制裁政策。"
+   },
+   {
+    "title": "Two Italians killed in attack on Kuwait site, Iran denies involvement - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW5Ia1VtUFl4b1FmMmh3dS1HQ1ktQ29sNHVrVG9uQnlEcGpMcVB0NUNyMmM3c1B5Q0N6czFFd1hYMFV3bU1FT0liUF9aSEZRWXdiTXVKaG9ZM0NWMXB5M3dxQTBwVEdlVTF1YURsZmxBTmprTU9BbkhmWVZGSWJmTEE4YUt5Tm1JNHphVWFWdF80cVQ4R2dBUXYxeEtSUTkwZFIxa2ZIdkxEazU4ZllpVmNoWHJfQQ?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-27T06:01+08:00",
+    "snippet": "Two Italians killed in attack on Kuwait site, Iran denies involvement NBC News"
+   },
+   {
+    "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+    "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-27T11:49+08:00",
+    "snippet": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days."
+   },
+   {
+    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-27T08:52+08:00",
+    "snippet": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
+   },
+   {
+    "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+    "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+    "source": "The Guardian World",
+    "time": "2026-11-27T10:38+08:00",
+    "snippet": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalitio…"
+   },
+   {
+    "title": "After Strikes, Hamas Says It's Weighing Options Against Israel - Newser",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDlLVnpkV2UtM2R4SXZlWDhiNHFuVFUzLUJvR09LYnVMcHp4T2YzelNndE82Q2VhUktoQXRBaVBLWDNCMHROaXlkMkE2aE5wTTE1cHM4cVBnVnZLNDNqUkkxblYySWQ2TjAyWGlROXNqR3ZYWDRDSFhWU0h0MUtNZHQtZHNQSEN5WnYtcEFNYnZQVVZaTEJzMTVHb2swMHZPMWFn?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-27T05:35+08:00",
+    "snippet": "After Strikes, Hamas Says It's Weighing Options Against Israel Newser Hamas chief: Continued Israeli strike in Gaza ‘unacceptable,’ response being weighed The Times of Israel Hamas in talks with Palestinian factions over Israeli targeted ki…"
+   },
+   {
+    "title": "RN’s antisemitic past ‘coming back to haunt them’: Will Le Pen ‘distance herself’ from Bardella?",
+    "url": "https://www.france24.com/en/rn-s-antisemitic-past-coming-back-to-haunt-them-will-le-pen-distance-herself-from-bardella",
+    "source": "France 24",
+    "time": "2026-11-27T06:25+08:00",
+    "snippet": "Could new allegations of antisemitism damage Jordan Bardella’s standing and the far-right National Rally’s electoral prospects? Charli James is pleased to welcome Paul Smith, Associate Professor in French and Francophone Studies at the Univ…"
+   },
+   {
+    "title": "Ontario Premier Says He’d Use a Gun to Protect His Family",
+    "url": "https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html",
+    "source": "NYT World",
+    "time": "2026-11-27T05:36+08:00",
+    "snippet": "Recent home invasions have stirred unease in Toronto. On Thursday, the premier of Ontario said he would fire a gun in self-defense ‘in a heartbeat.’"
+   },
+   {
+    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+    "source": "NPR World",
+    "time": "2026-11-26T21:31+08:00",
+    "snippet": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea."
+   },
+   {
+    "title": "九合一選前反轉：沈伯洋破天荒取消台北「選前之夜」，如何影響選情？",
+    "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-26T21:41+08:00",
+    "snippet": "這是台北市自1994年恢復市長直選以來，首次有民進黨參選人不舉辦選前之夜。有政治學者向BBC中文分析，沈伯洋取消活動可為交通爭議「止血」，但同時窒礙了綠營凝聚聲勢。"
+   },
+   {
+    "title": "US, Qatar to help Venezuela clear regional development bank arrears, sources say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnZ1a0tWZGRjN19GNkZNS0JoYmlDZGNHSkVZMmM1d2xsTEN1QmhsNkZtWVZfelZCUzdid05hSkVYa0hNVmpRazY0MUtWdWJQR2FydkFUeWtqZUotbXVvQ1JPVWg2Y0tGdWZOQ0hHUkNLRGh6Nm5SMjBNVldmRm1YZU1iaG5DSjdaSmFTcXpIdDZwUExwOFQzNWxSMk1QV1NaWWVONy02Y2FSa2xZbV8wUWMtd0h1clBxZ01aYTdpd0xYYjZMXzVrVQ?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-27T05:29+08:00",
+    "snippet": "US, Qatar to help Venezuela clear regional development bank arrears, sources say Reuters"
+   },
+   {
+    "title": "Asian stock markets rise after earlier tech rout",
+    "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-27T11:42+08:00",
+    "snippet": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty."
+   },
+   {
+    "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-27T08:48+08:00",
+    "snippet": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu."
+   },
+   {
+    "title": "Threat from China looms large over Taiwan’s local elections",
+    "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+    "source": "The Guardian World",
+    "time": "2026-11-27T09:00+08:00",
+    "snippet": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Demo…"
+   },
+   {
+    "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3UwOXNyb0NoQkd5dWprbW5CZjhYU09lT0I3UFQxRnQ1QUtNemg2T2k2RzFvU0FodTlncHhnUG5nVGt1Qno5d3Z3VXNIajBQV3hFQUdnWFdJdVpNeGZTX2dGMldXTVpvbS05SWZuMXY0NmVsNm1wUkw2WHBoUWwtRmNyZEo2MkFqc2RpYnVNSl9kc1JMeHBGamE0aHhZRFhuRW04MUF0TzVYWUEzSWtlVVJ30gG3AUFVX3lxTFA4UUxFOU8tQ25NZzZMY0V1QnhhS2hWOFhVRG1KcVN0eHVuaXVLaDA5UVJnQjRENUVrYVhja0tYenpXWS1SSGI2ZlAtejdGdUt1T1lkZ1dVRkU0bUVXNk5XU1VYZTItT1FfSU1IanhSeXdXYUNjVDZFT2xGcnFRTE5YNDdid2JiZVlDMUVhYWlNODNnZmFFU1hSQlkycmdkcjN5MTlUSEdFMFNFX1kxdkRvZWFfX0JvRQ?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-27T05:14+08:00",
+    "snippet": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat Fox News MoD prepares veterans for war The Telegraph UK reservists contacted as 'threat environment' rises, Streeting says BBC UK writes to veterans to r…"
+   },
+   {
+    "title": "Is Spain's snap election being rigged? Debunking viral claims",
+    "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims",
+    "source": "France 24",
+    "time": "2026-11-27T06:17+08:00",
+    "snippet": "Ahead of Spain's snap election on Sunday, allegations of vote rigging - known in Spanish as \"pucherazo\" - are spreading widely on social media. From claims that undocumented migrants are being illegally registered to vote, to allegations th…"
+   },
+   {
+    "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+    "source": "NYT World",
+    "time": "2026-11-27T05:23+08:00",
+    "snippet": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing."
+   },
+   {
+    "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+    "source": "NPR World",
+    "time": "2026-11-26T20:24+08:00",
+    "snippet": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like."
+   },
+   {
+    "title": "BBC事實查核：紀錄顯示，特朗普的帳戶今年交易了44次Nvidia股票",
+    "url": "https://www.bbc.com/zhongwen/articles/cm62p52417ywo/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-26T21:23+08:00",
+    "snippet": "美國總統財務揭露的審查顯示特朗普（川普）的投資組合經常交易Nvidia的股票。"
+   },
+   {
+    "title": "North Korean launderers turn to little-known crypto services to move Binance haul, say researchers - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYS11cFROVTNKbWhxdzVLY2tjZUdvN3BqUGhWZDR3aF94X0ZscFNnVkV3Y2NyVFAzRFdjWjVzUWxySjNGbXlVYzFpZlFETlZlVGtad0RlUHZoYWtMNEx2VTN0VEhHTUoxZzhiLVJuOE9GNGdWNjNleVhXQlU4WnEtUzlsbksyZTVBT1I3dFZfOWh1emVVVEwwZlVlWTRXa3dFcm9OWFJKS1ZIdV92cWhRNUItUmVPUmxsMDIxc04ybmM1MnRnWkxkd2lVUFg?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-27T00:58+08:00",
+    "snippet": "North Korean launderers turn to little-known crypto services to move Binance haul, say researchers Reuters"
+   },
+   {
+    "title": "Spain and Morocco under-17 stars target World Cup 2030",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-27T10:58+08:00",
+    "snippet": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup."
+   },
+   {
+    "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+    "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-27T08:47+08:00",
+    "snippet": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest."
+   },
+   {
+    "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+    "source": "The Guardian World",
+    "time": "2026-11-27T08:10+08:00",
+    "snippet": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airport Get our breaking news email , free app or daily news podcast The Australian Transport Safety Bureau is investigating flight crews’ “mental mod…"
+   },
+   {
+    "title": "Hamas weighs response after Israel kills 10 people in Gaza - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-27T04:56+08:00",
+    "snippet": "Hamas weighs response after Israel kills 10 people in Gaza Reuters Israel intensifies assassinations in Gaza as US urges Netanyahu to proceed with ceasefire plan CNN Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwai…"
+   },
+   {
+    "title": "'Citizens angry with the establishment' as Spain heads to the polls",
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20261126-citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
+    "source": "France 24",
+    "time": "2026-11-27T06:16+08:00",
+    "snippet": "Three party leaders are vying in Spain's general election on Sunday, which leftist Prime Minister Pedro Sanchez called following a parliamentary setback over housing legislation that underscored the fragility of his minority coalition gover…"
+   },
+   {
+    "title": "In Praise of My Typewriter",
+    "url": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
+    "source": "NYT World",
+    "time": "2026-11-27T04:43+08:00",
+    "snippet": "The A.I. projects editor at The New York Times uses chatbots every day. But when it’s time to write, he reaches for an Olivetti Lettera 22 from the 1950s."
+   },
+   {
+    "title": "台灣「九合一」選舉：六都市長候選人簡介",
+    "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-26T19:11+08:00",
+    "snippet": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。"
+   },
+   {
+    "title": "India asks Netflix not to air Pakistani show, local media report - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0x4N1FHbVMzTk9UZ2tfR0FDeTdUT1N6UTc0cXNIWTIwckdUQ0swRXZTWUkzZFlJQ3hoejg4ZlNaci1zX0pUbWdmR3FQOFNUMHhxM1kwN1hHUjFtVFNGcmZDT2xnb1dHT3ZZRTNKbTJuZ3RZbjZYVkZYSW1FZ0RSbXhnRFhZbVhzV2V4V3hVNDVCWlJxSFAwNXhfV2t0NXBmVnE4d3k3V1B5ekFlTm5IbURGcUxoZmFxeG9j?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-27T00:40+08:00",
+    "snippet": "India asks Netflix not to air Pakistani show, local media report Reuters"
+   },
+   {
+    "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+    "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-27T10:14+08:00",
+    "snippet": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks."
+   },
+   {
+    "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+    "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-27T07:03+08:00",
+    "snippet": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people."
+   },
+   {
+    "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+    "source": "The Guardian World",
+    "time": "2026-11-27T08:02+08:00",
+    "snippet": "Labor passes final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest exporters to ke…"
+   }
+  ]
+ },
+ "source_status": [
+  {
+   "source": "Hacker News",
+   "status": "success",
+   "item_count": 15
+  },
+  {
+   "source": "RSS Feeds",
+   "status": "success",
+   "item_count": 477
+  }
+ ],
+ "feed_filtered_out": {
+  "IT之家": 52
+ },
+ "github_trending_error": null
+}
