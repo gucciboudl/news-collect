@@ -1,0 +1,955 @@
+{
+ "generated_at": "2026-11-28T12:14:14+08:00",
+ "window_hours": 24,
+ "fetched_total": 417,
+ "counts_before_cap": {
+  "ai-tech": 24,
+  "github-trending": 16,
+  "film-tv": 165,
+  "world-politics": 173
+ },
+ "topics": {
+  "AI与科技": [
+   {
+    "title": "Michael Nielsen took down his book on neural nets",
+    "url": "https://neuralnetworksanddeeplearning.com/",
+    "source": "Hacker News",
+    "time": "2026-11-28T03:31+08:00",
+    "score": 437,
+    "comments": 276,
+    "discussion": "https://news.ycombinator.com/item?id=50670757",
+    "snippet": "--- Top Comments --- [whatshisface]: This is a misstep, training people to understand what the big companies do behind closed doors can help prepare them for the outcomes. Compare hiding all knowledge of why oil production causes land to si…"
+   },
+   {
+    "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+    "url": "https://www.ithome.com/1/033/824.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T11:22+08:00",
+    "snippet": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开…"
+   },
+   {
+    "title": "datasette-charts 0.4a0",
+    "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+    "source": "Simon Willison",
+    "time": "2026-11-28T07:57+08:00",
+    "snippet": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins ju…"
+   },
+   {
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "source": "The Verge AI",
+    "time": "2026-11-27T22:00+08:00",
+    "snippet": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen …"
+   },
+   {
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "source": "Hacker News",
+    "time": "2026-11-27T23:40+08:00",
+    "score": 466,
+    "comments": 238,
+    "discussion": "https://news.ycombinator.com/item?id=50668145",
+    "snippet": "--- Top Comments --- [jszymborski]: People like to get sanctimonious about blocking ads, but this is one of the many good reasons why I'll never feel bad about it. [afavour]: Worth noting that this isn’t really anything to do with the techn…"
+   },
+   {
+    "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+    "url": "https://www.ithome.com/1/033/822.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T11:18+08:00",
+    "snippet": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy …"
+   },
+   {
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "source": "Hacker News",
+    "time": "2026-11-28T03:42+08:00",
+    "score": 309,
+    "comments": 169,
+    "discussion": "https://news.ycombinator.com/item?id=50670855",
+    "snippet": "--- Top Comments --- [lacoolj]: I'm actually confused - I thought this was widely banned on all platforms already. Was grok just really liberal for everyone or did people have to \"trick it\" into this? [poontanglatits]: How about the people …"
+   },
+   {
+    "title": "Edge 浏览器右键菜单不加新 AI 了，微软对搁置可能造成的不便深表歉意",
+    "url": "https://www.ithome.com/1/033/810.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T10:16+08:00",
+    "snippet": "IT之家 11 月 28 日消息，科技媒体 NeoWin 昨日（11 月 27 日）发布博文，报道称微软已搁置为 Edge 浏览器扩展 AI 功能计划， 不再为该浏览器右键菜单加入摘要、引用和翻译功能。 IT之家援引博文介绍，微软于 2025 年 6 月更新 AI at Work 路线图条目 RM497135，规划在 Microsoft Edge 浏览器中，为右键菜单添加 3 项 AI 选项，用户选中文本后右键，可以调用 Copilot 完成摘要、引用和翻译功能。 不过微软近…"
+   },
+   {
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "url": "https://bouncemarket.minhanhday.com/",
+    "source": "Hacker News",
+    "time": "2026-11-27T23:01+08:00",
+    "score": 341,
+    "comments": 115,
+    "discussion": "https://news.ycombinator.com/item?id=50667726",
+    "snippet": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic f…"
+   },
+   {
+    "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+    "url": "https://www.ithome.com/1/033/798.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T09:04+08:00",
+    "snippet": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒…"
+   },
+   {
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "url": "https://github.com/convex/convex-backend-skill/issues/64",
+    "source": "Hacker News",
+    "time": "2026-11-28T02:02+08:00",
+    "score": 252,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50669765",
+    "snippet": "--- Top Comments --- [jamwt]: Jamie (Convex CEO) here. Convex is a full platform for building and hosting your software. We store your data and code, and we have an AI gateway that developers use to build their software or power in-app feat…"
+   },
+   {
+    "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
+    "url": "https://www.ithome.com/1/033/795.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T08:50+08:00",
+    "snippet": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 …"
+   },
+   {
+    "title": "False computer-checked proofs",
+    "url": "https://cr.yp.to/proofs/falseccp.html",
+    "source": "Hacker News",
+    "time": "2026-11-27T23:26+08:00",
+    "score": 197,
+    "comments": 76,
+    "discussion": "https://news.ycombinator.com/item?id=50667989",
+    "snippet": "--- Top Comments --- [twotwotwo]: It is true soundness bugs have been found, and the Lean community spends effort on it. But this page doesn't convey the gap between one incorrect verification and successfully misleading mathematicians abou…"
+   },
+   {
+    "title": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险",
+    "url": "https://www.ithome.com/1/033/790.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T08:24+08:00",
+    "snippet": "IT之家 11 月 28 日消息，微软一直积极推动 Copilot 融入旗下各类应用，Office 自然也不例外。然而据外媒 Neowin 当地时间 27 日报道，一名 IT 管理员指出，部分新功能可能给使用 Microsoft 365 的企业和组织带来棘手的合规风险。 据这名管理员透露，拥有 Business Premium 订阅及 Copilot 许可证的用户， 只需向 Copilot 输入文字指令，就能直接编辑保存在 OneDrive 和 SharePoint 中的文件…"
+   },
+   {
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "source": "Hacker News",
+    "time": "2026-11-28T07:06+08:00",
+    "score": 200,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50672565",
+    "snippet": "--- Top Comments --- [spankalee]: This week I've been wondering if I should cancel my Claude subscription because Gemini Neon is not obviously better or worse that Opus, and while I regularly use up my Claude subscription, I can't seem to m…"
+   },
+   {
+    "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
+    "url": "https://www.ithome.com/1/033/784.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T07:28+08:00",
+    "snippet": "“IT早报”时间，大家好，现在是 2026 年 11 月 28 日星期六，今天的重要科技资讯有： 1. DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额 DeepSeek 移动端小范围测试“显示本轮消耗额度”功能，可展示单次对话 Token 消耗及估算金额，当前个人用户仍可免费使用该服务。>> 查看详情 2. 有线电视与 IPTV 广告禁令 11 月 27 日生效：开机看全屏直播，违者最高罚 10 万元 广电总局两项新规 11 月 27 日施行，有线电…"
+   },
+   {
+    "title": "Atari Homebrew Awards Cancelled",
+    "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+    "source": "Hacker News",
+    "time": "2026-11-28T10:03+08:00",
+    "score": 115,
+    "comments": 99,
+    "discussion": "https://news.ycombinator.com/item?id=50673688",
+    "snippet": "--- Top Comments --- [0_____0]: I have the utmost respect for people who are able to walk away from projects when the conditions that they were built on no longer exist. It requires a clarity about what you were actually trying to achieve i…"
+   },
+   {
+    "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+    "url": "https://www.ithome.com/1/033/780.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T07:12+08:00",
+    "snippet": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并…"
+   },
+   {
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "url": "https://dragdropmath.com/",
+    "source": "Hacker News",
+    "time": "2026-11-28T01:56+08:00",
+    "score": 114,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50669673",
+    "snippet": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong mo…"
+   },
+   {
+    "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+    "url": "https://www.ithome.com/1/033/777.htm",
+    "source": "IT之家",
+    "time": "2026-11-28T07:04+08:00",
+    "snippet": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上…"
+   },
+   {
+    "title": "Making a 3D fantasy map like a 16th-Century atlas",
+    "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+    "source": "Hacker News",
+    "time": "2026-11-27T22:02+08:00",
+    "score": 107,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50667062",
+    "snippet": "--- Top Comments --- [andai]: > Instead of saying \"that's ok, this free one is the same vibe\", I just paid for the font I found just right. Never concede terrain on your instinct! Hell yeah. I've seen people with great vision, but without t…"
+   },
+   {
+    "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+    "url": "https://www.ithome.com/1/033/769.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T22:48+08:00",
+    "snippet": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定…"
+   },
+   {
+    "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
+    "url": "https://www.ithome.com/1/033/763.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T22:11+08:00",
+    "snippet": "IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后 接受金属探测器检查 。各地学校加紧采购金属探测器，导致供不应求。 报道提到，一家生产便携式金属探测器的韩国厂商 27 日表示，客户咨询数量较往常增加了约 100 倍，公司大幅提升产量，仍难以满足需求。另一厂商说，如果现在订购，需等待约半个月才能拿到货。一家线上商家也发布公告说，现货已售罄，预计下月初才会补货，目前只接受预订。…"
+   },
+   {
+    "title": "上海警方破获一起购物卡充值诈骗案，骗子谎称“4 万元可安排入职英伟达”",
+    "url": "https://www.ithome.com/1/033/755.htm",
+    "source": "IT之家",
+    "time": "2026-11-27T21:57+08:00",
+    "snippet": "IT之家 11 月 27 日消息，据上海警方通报，近期上海警方查获一起购物卡充值诈骗案，犯罪分子打着所谓“投资 4 万元就可入职英伟达”旗号，骗取中老年人“托关系给儿子找工作”。 IT之家参考通报获悉，今年 11 月 5 日，上海市民李女士来到浦东张江一家超市，提出要买购物卡。她当天上午想要买 2.8 万元购物卡，下午又来到超市提出再买 5 万元，这一反常举动引起了工作人员的怀疑，他们怀疑李阿姨遭遇购物卡充值诈骗，随即报警。 民警到场后，确认李女士遭到了典型的购物卡充值诈骗，…"
+   }
+  ],
+  "GitHub热门开源": [
+   {
+    "title": "elementalsouls/Claude-BugHunter",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 1608,
+    "stars_total": "26,273",
+    "language": "Python",
+    "snippet": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+   },
+   {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 922,
+    "stars_total": "328,415",
+    "language": "Shell",
+    "snippet": "An agentic skills framework & software development methodology that works."
+   },
+   {
+    "title": "XiaoYouChR/Ghost-Downloader-3",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 836,
+    "stars_total": "19,964",
+    "language": "Python",
+    "snippet": "The only downloader you need. 下载器的集大成者。"
+   },
+   {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 822,
+    "stars_total": "211,767",
+    "language": "TypeScript",
+    "snippet": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
+   },
+   {
+    "title": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 725,
+    "stars_total": "74,519",
+    "language": "HTML",
+    "snippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+   },
+   {
+    "title": "zhouxiaoka/autoclip",
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 718,
+    "stars_total": "17,668",
+    "language": "Python",
+    "snippet": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
+   },
+   {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 675,
+    "stars_total": "76,430",
+    "language": "Python",
+    "snippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+   },
+   {
+    "title": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 666,
+    "stars_total": "67,076",
+    "language": "Python",
+    "snippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+   },
+   {
+    "title": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 660,
+    "stars_total": "72,271",
+    "language": "Python",
+    "snippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+   },
+   {
+    "title": "mjmirza/app-store-compliance",
+    "url": "https://github.com/mjmirza/app-store-compliance",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 530,
+    "stars_total": "7,992",
+    "language": "Shell",
+    "snippet": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), an…"
+   },
+   {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 474,
+    "stars_total": "79,518",
+    "language": "TypeScript",
+    "snippet": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+   },
+   {
+    "title": "Tracer-Cloud/opensre",
+    "url": "https://github.com/Tracer-Cloud/opensre",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 328,
+    "stars_total": "16,176",
+    "language": "Python",
+    "snippet": "The open-source agent for CI/CD reliability."
+   },
+   {
+    "title": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 311,
+    "stars_total": "13,629",
+    "language": "TypeScript",
+    "snippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+   },
+   {
+    "title": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 243,
+    "stars_total": "20,040",
+    "language": "TypeScript",
+    "snippet": "Cursor plugin specification and official plugins"
+   },
+   {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 151,
+    "stars_total": "12,968",
+    "language": "C++",
+    "snippet": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+   },
+   {
+    "title": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "source": "GitHub Trending (daily)",
+    "time": "2026-11-28T12:14+08:00",
+    "stars_today": 146,
+    "stars_total": "33,686",
+    "language": "C",
+    "snippet": "The official NGINX Open Source repository."
+   }
+  ],
+  "影视资讯": [
+   {
+    "title": "BET Announces New Chaka Khan Humanitarian Prize At Friday’s Soul Train Awards",
+    "url": "https://deadline.com/2026/11/bet-announces-new-chaka-khan-humanitarian-award-1237234511/",
+    "source": "Deadline",
+    "time": "2026-11-28T11:43+08:00",
+    "snippet": "BET on Friday announced the creation of the Chaka Khan Humanitarian Award to recognize “musicians and cultural figures who have made outstanding contributions to humanitarianism, community service and social justice.” The award will be pres…"
+   },
+   {
+    "title": "JAFF Market Opens Third Edition With Call to Measure Indonesian Cinema’s Growth by Quality, Not Just Volume",
+    "url": "https://variety.com/2026/film/markets-festivals/jaff-market-third-edition-quality-over-volume-1236959863/",
+    "source": "Variety",
+    "time": "2026-11-28T11:36+08:00",
+    "snippet": "JAFF Market, which organizers bill as Indonesia’s biggest film market, opened its third edition at the Jogja Expo Center in Yogyakarta with market director Linda Gozali urging the local industry to judge its growth on quality as well as sca…"
+   },
+   {
+    "title": "杀戮都市（2010） 🎬 GANTZ 玄野计 x 小岛多惠｜二宫和也 x 吉高由里子 - 新浪网",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LMGdscUJUajhoQkFfU3N5aGxFWkM5WWxPUmR3UWdmZGZ1aGVLTUpkQnYwV2hvVnZOVWdCX0xjRTB0SnNyNlJzaDc4bk5kTzY5ZzlmZnEyZjNNN2RIVXNUV2haUQ?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-28T11:31+08:00",
+    "snippet": "杀戮都市（2010） 🎬 GANTZ 玄野计 x 小岛多惠｜二宫和也 x 吉高由里子 新浪网"
+   },
+   {
+    "title": "Strong ‘I Play Rocky,’ ‘How to Rob a Bank’ KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows",
+    "url": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-28T10:49+08:00",
+    "snippet": "Kevin Wilson tells The Hollywood Reporter about the 'Rocky' origin story's \"great start,\" 'How to Rob a Bank' underperforming (\"Still trying to figure it out\") and the 'Ali G' strategy: \"That theatrical hurdle is just tough.\""
+   },
+   {
+    "title": "Apple TV’s 8-Part Thriller Is So Good, There’s Already Another Season Coming - Collider",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CN0xzbXJCRlJpY3NrSGZQTm1keVRNYUlFWVBEd1gwTlljNjVkUkJDUk16QTQ0WE5PUV9KZzgxeVhGdUtUdHkyOWtrWWFvX0gxc3NlNlBoWng2V3FLaWs0eURjYTh3S2hJ?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-28T09:39+08:00",
+    "snippet": "Apple TV’s 8-Part Thriller Is So Good, There’s Already Another Season Coming Collider"
+   },
+   {
+    "title": "The 5 steamiest sex scenes of ‘The Hunting Wives’ Season 2",
+    "url": "https://decider.com/2026/11/27/the-hunting-wives-season-2-sex-scenes/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-28T09:00+08:00",
+    "snippet": "This season of The Hunting Wives is spicier than ever!"
+   },
+   {
+    "title": "《生化危机：爆发夜》数字上线 全球票房破4亿 - 新浪网",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVpoMmpyeXk4MUtaNFp2YlpEb2J2T2tUdEp1ci0wX1p2WTB3M01uYXdQVkxXRXhLQzNwczNZYUd0TFNFUnAyamswZTYydzJFR0czRGhVelhrR1dpeF9VVks1ZDgzbHlRUHlBNzBtOVlCOFBOMXRzeG9mM19SSl9mbWJsRnE?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-28T08:56+08:00",
+    "snippet": "《生化危机：爆发夜》数字上线 全球票房破4亿 新浪网"
+   },
+   {
+    "title": "‘The Body’ Editors on Cutting Netflix’s Catholic School Horror: “Let It Play”",
+    "url": "https://www.whats-on-netflix.com/interviews/the-body-netflix-editors-interview-adrienne-mcnally-danielle-statuto/",
+    "source": "What's on Netflix",
+    "time": "2026-11-28T07:52+08:00",
+    "snippet": "Adrienne McNally and Danielle L. Statuto explain how holding back on jump scares and sound effects made the series' horror and comedy land, and why the job felt personal."
+   },
+   {
+    "title": "‘Odyssey’ Cinematographer Hoyte van Hoytema Was More Interested in the Intimate Than the Epic",
+    "url": "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743/",
+    "source": "IndieWire",
+    "time": "2026-11-28T04:30+08:00",
+    "snippet": "In spite of the film's IMAX cameras and massive scale, the director of photography says that what always interested him and Christopher Nolan was the humanity at the core of their spectacular adventure."
+   },
+   {
+    "title": "Bob Greenblatt Opines Why Viewers Aren’t Sampling New Shows Today: “It’s Easier To Just Escape To Seinfeld or Downton Abbey”",
+    "url": "https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508/",
+    "source": "Deadline",
+    "time": "2026-11-28T11:18+08:00",
+    "snippet": "Veteran TV producer Bob Greenblatt understands why streaming old shows like Cheers or Mad Men is a far more appealing alternative to viewers these days than trying to vibe with a new series. In an interview with the New York Times, Greenbla…"
+   },
+   {
+    "title": "Anurag Kashyap, Ranjan Singh Back Haryana-Rooted Short ‘The Melody of Destiny’ as Executive Producers (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/news/anurag-kashyap-ranjan-singh-back-short-melody-of-destiny-1236959318/",
+    "source": "Variety",
+    "time": "2026-11-28T11:30+08:00",
+    "snippet": "Indian auteur Anurag Kashyap (“Gangs of Wasseypur”) and producer Ranjan Singh have boarded “The Melody of Destiny,” a short film rooted in the northern Indian state of Haryana, as presenters and executive producers, backing the film on the …"
+   },
+   {
+    "title": "海外电影今起登陆内地银幕 沙丘系列与复仇者联盟5定档 - 手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95a3VqYU81MlBMTVVYMHR1aTdJRDljandnakRUSjZZN3FQd2stSy1pME5kd1JDTndmaWRKSlhFSVlKNFljcUp5QzREeFBOaDlFcFo0MXRKYXFhQ1dtM29kQjFTaldWZWswSnFfUlQ2RE4?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-28T11:24+08:00",
+    "snippet": "海外电影今起登陆内地银幕 沙丘系列与复仇者联盟5定档 手机新浪网"
+   },
+   {
+    "title": "When and Where to Stream the 100th Macy’s Thanksgiving Day Parade After Its Historic Delay",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-28T10:30+08:00",
+    "snippet": "For the first time since its inaugural 1924 march, the annual event was postponed due to weather."
+   },
+   {
+    "title": "‘Ted Lasso’ Season 5 Officially Renewed at Apple TV. Jason Sudeikis Is Returning - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53aE5Eb0QtcVFURUtVXzhEZ2JxQ0dLS3pIUjVqSmdUYkRwT2RMYWNsY1lmaFFDUkRkeEZ3U3VLbFBwVzhvUmFUd2tVbWhXZEN3TXpPV2psbHBCWGNGX3FYcjRuR19jcGc?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-28T08:30+08:00",
+    "snippet": "‘Ted Lasso’ Season 5 Officially Renewed at Apple TV. Jason Sudeikis Is Returning IMDb"
+   },
+   {
+    "title": "Stream It Or Skip It: ‘Toos: The Van der Valk Kidnapping’ on Netflix, dramatizing a wild 1980s true crime",
+    "url": "https://decider.com/2026/11/27/toos-the-van-der-valk-kidnapping-netflix-review/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-28T06:00+08:00",
+    "snippet": "The drama is based on a real-life kidnapping that was one of the most infamous cases in the history of The Netherlands."
+   },
+   {
+    "title": "《挖掘者》票房表现灾难 预计亏损2亿美元 - 新浪网",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW9vTThXbVhZLUtyWlZTREJmUVFiRThqLVo0cU9sZnpFb1ZBaEQ1RWVTVW91akdKOUEwa1FnN0t2NGdKbGp3OEFxbmxOLVhMQzlXd01QTFI5LXVGdUhzQ2NYMEk1MjN4ZFJmNEo0MHFfU3E3SE5xZThBODMwYUtFSmtDdW8?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-28T06:50+08:00",
+    "snippet": "《挖掘者》票房表现灾难 预计亏损2亿美元 新浪网"
+   },
+   {
+    "title": "‘Spider-Man: Brand New Day’ Hits No. 1 on Netflix in Nearly 40 Countries; No US Release Yet",
+    "url": "https://www.whats-on-netflix.com/news/spider-man-brand-new-day-netflix-international-release-no-us-date/",
+    "source": "What's on Netflix",
+    "time": "2026-11-28T07:02+08:00",
+    "snippet": "Spider-Man: Brand New Day has landed on Netflix in nearly 40 countries and shot straight to number one, but US subscribers are still waiting on a release date."
+   },
+   {
+    "title": "Forget Photorealism: How ‘Wildwood’ Made Its Handmade Digital Artistry Visible",
+    "url": "https://www.indiewire.com/features/animation/weta-fx-visual-effects-supervisors-stop-motion-wildwood-1235230742/",
+    "source": "IndieWire",
+    "time": "2026-11-28T00:00+08:00",
+    "snippet": "WETA VFX Supervisors Dan Macarin and Sabine Laimer tell IndieWire how they matched the tones and textures of Laika's stop-motion film."
+   },
+   {
+    "title": "Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38",
+    "url": "https://deadline.com/2026/11/jermaine-haley-dies-wwe-bronson-reed-was-38-1237234503/",
+    "source": "Deadline",
+    "time": "2026-11-28T10:03+08:00",
+    "snippet": "The World Wrestling Federation announced the passing of Jermaine Haley, aka Bronson Reed. The 38-year-old died Nov. 26 of medical complications. “Jermaine was a larger-than-life figure in WWE,” the organization posted via Instagram. “More i…"
+   },
+   {
+    "title": "Jason Iskandar’s ‘First Breath After Coma’ Revisits Lunar New Year’s Public Return to Indonesia After a Three-Decade Ban, First Looks Unveiled (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/markets-festivals/first-breath-after-coma-indonesia-chinese-culture-ban-1236959324/",
+    "source": "Variety",
+    "time": "2026-11-28T11:00+08:00",
+    "snippet": "Indonesian filmmaker Jason Iskandar’s “First Breath After Coma,” a drama set as the country’s Chinese community prepared to celebrate the Lunar New Year openly for the first time in more than 30 years, has revealed first-look images of its …"
+   },
+   {
+    "title": "多次中风 走路困难！74岁红色旅成员上演电影般高空逃脱！ - 乌有之乡网刊",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZcFh6TUlQMHN6WVJBLU1lTURQRmxHOXV6dzlNeENjU2VRLUx4TXo1aXJuQTRzRmtuaTE3eHBHb1VoeE1kcGIxeHhwcEpGNHFVOGhCVlRQNHVVSkRNM0hITVFPVkU0VzVUWmVyRXA0clRqcVV5?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-28T10:50+08:00",
+    "snippet": "多次中风 走路困难！74岁红色旅成员上演电影般高空逃脱！ 乌有之乡网刊"
+   },
+   {
+    "title": "Luxury Beauty Advent Calendar (Worth $350) Drops Below $60 for Macy’s Black Friday Sale",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/macys-beauty-advent-calendar-black-friday-sale-2026-promo-1236764260/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-28T07:53+08:00",
+    "snippet": "Bobbi Brown, Caudalie, Tarte, Dolce&Gabbana and Benefit are just a handful of luxury labels included in the 25-day holiday countdown."
+   },
+   {
+    "title": "Justin Timberlake Opens Up in Apple TV Documentary - Demokratis.co.id",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUUVdLSUxCdEtYOU4tX29JVTFtVm1UUjFmZUF1cXc3R2VKUElUanlqdmJYWGNFcVpRQWRZZzNtZE5sUE5vLVhONTZ2SVhVMGhDU2ZRY1V0N1RDMHY5WTVGenNuNEZkODA?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-28T05:48+08:00",
+    "snippet": "Justin Timberlake Opens Up in Apple TV Documentary Demokratis.co.id"
+   },
+   {
+    "title": "Stream It Or Skip It: ‘Maddie’s Secret’ on Netflix, John Early’s weirdly sincere kitschy comedy",
+    "url": "https://decider.com/2026/11/27/maddies-secret-netflix-review/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-28T05:30+08:00",
+    "snippet": "John Early writes, directs, and stars in this kooky film about a sweet food influencer who finds herself undone."
+   },
+   {
+    "title": "成本超3亿！《泥面人》错过黄金档期太可惜 - 360娱乐",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBSGxDanVTd3RwMWx4VlNQZUxDSWF0U0ZhM2swMEllV1Y3enVydmhFbmJMZl9tSmIyckZ0NHFPdnU3ekQ2WjRXQTRxcw?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-27T22:27+08:00",
+    "snippet": "成本超3亿！《泥面人》错过黄金档期太可惜 360娱乐"
+   },
+   {
+    "title": "Netflix Launching New “Home of Anime” Hub Experience Globally with New Monthly Anime Top 10s",
+    "url": "https://www.whats-on-netflix.com/news/anime/netflix-home-of-anime-hub-global-launch-date/",
+    "source": "What's on Netflix",
+    "time": "2026-11-28T05:07+08:00",
+    "snippet": "Netflix is bringing its dedicated anime hub to 190 countries this December alongside brand-new monthly viewership charts for the genre."
+   },
+   {
+    "title": "‘Cliff Booth’ Brings Back a Fan-Favorite ‘Once Upon a Time in Hollywood’ Face",
+    "url": "https://www.indiewire.com/features/interviews/cliff-booth-star-nicholas-hammond-returning-tarantino-1235230960/",
+    "source": "IndieWire",
+    "time": "2026-11-27T22:00+08:00",
+    "snippet": "Veteran actor Nicholas Hammond, who played Sam Wanamaker in \"Once Upon a Time in Hollywood,\" talks about reprising his role in one of the sequel's Easter eggs and looks back on a career that includes \"The Sound of Music\" and a stint as tele…"
+   },
+   {
+    "title": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
+    "url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472/",
+    "source": "Deadline",
+    "time": "2026-11-28T09:02+08:00",
+    "snippet": "NBC has pulled from its air a controversial ad that is critical of the United States’ policy of sending financial aid to Israel. The ad ran Wednesday night during the network’s Saturday Night Live Thanksgiving special. Titled “Every Three S…"
+   },
+   {
+    "title": "Netflix’s ‘Secrets’ Takes Indonesian Auteur Ravi Bharwani Into Thriller Territory After Eight-Year Gap",
+    "url": "https://variety.com/2026/film/festivals/netflix-secrets-ravi-bharwani-thriller-1236959343/",
+    "source": "Variety",
+    "time": "2026-11-28T11:00+08:00",
+    "snippet": "Indonesian filmmaker Ravi Bharwani’s Netflix thriller “Secrets,” his first feature in eight years, will world premiere at the 21st Jogja-Netpac Asian Film Festival on Nov. 29, four days before it begins streaming on the platform on Dec. 3. …"
+   },
+   {
+    "title": "[正点财经]电影修复行业观察 电影修复人才需求增加 从业者需具备多元能力 - 央视网",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBITzYzcEhMREZyX0NTeVRrWTc4WXlyWEEzLWJlTHVVR3o1Z09OT3pnOU1ZUUtVNWxOZ3RJOFE2a1ZmZmhDSnQ0SnAtWVRQajhZcFJRUE1UTUNHMVhJbUhHRzlCWldGTVZIQlU0b3JfMXVhUnVDYVE?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-28T10:34+08:00",
+    "snippet": "[正点财经]电影修复行业观察 电影修复人才需求增加 从业者需具备多元能力 央视网"
+   },
+   {
+    "title": "Gayle King to Miss Week of ‘CBS Mornings’ Shows Amid Death of Her Son-in-Law Virgil Miller",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-28T07:44+08:00",
+    "snippet": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7."
+   },
+   {
+    "title": "Heat Meets Ocean's 11 In Apple TV's New Thriller Series Releasing Through Christmas - ScreenRant",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TUFlZWC1XTUJZakRFOEtjWG5KSjNqOUpsdENUOHlrNWs4RXNMYW1fMV90Qmpxa28wWXdRbnkxUkFBbTJiNXZjZXhGNWJvS2tQQWc2QktCYjVUZUZ3N0xOd19PVW00MEt2Snc?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-28T04:30+08:00",
+    "snippet": "Heat Meets Ocean's 11 In Apple TV's New Thriller Series Releasing Through Christmas ScreenRant"
+   },
+   {
+    "title": "Stream It Or Skip It: ‘Runner’ on Hulu, an action-packed Alan Ritchson-Owen Wilson buddy comedy",
+    "url": "https://decider.com/2026/11/27/runner-hulu-review/",
+    "source": "Decider (streaming)",
+    "time": "2026-11-28T05:00+08:00",
+    "snippet": "Ritchson drops another generic action flick in-between ‘Reacher’ seasons."
+   },
+   {
+    "title": "靠欺负新人熬寒冬？影视圈该醒醒了“兄弟们拍这场戏，跟着你熬大夜熬到现在，你就露出来给大家看看，让大家放松一下呗。” 当青年演员赵昭仪在播客里复述出这句话时，我作为一个女性，隔着屏幕都感受到了一种生理性的反胃和窒息。她回忆说，当时她穿了一件领口 - 潮新闻客户端",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XT0lSNE9HUFEtU1d6Y3VmVXU1U3BSUHlDRUUyYUxWLXNObWhIZ002OWJIeEI3SkZCRVZTRW1qSS12UzRjTk5VZFZNbHpjNk42MjZwWnZyWXFEQ0VrZzZ5VnNFVWt4MExaNlJnNlViN0M2Uzlfc0E?oc=5",
+    "source": "Google News 票房(中文)",
+    "time": "2026-11-27T20:20+08:00",
+    "snippet": "靠欺负新人熬寒冬？影视圈该醒醒了“兄弟们拍这场戏，跟着你熬大夜熬到现在，你就露出来给大家看看，让大家放松一下呗。” 当青年演员赵昭仪在播客里复述出这句话时，我作为一个女性，隔着屏幕都感受到了一种生理性的反胃和窒息。她回忆说，当时她穿了一件领口 潮新闻客户端"
+   },
+   {
+    "title": "Danny McBride’s Cult HBO Comedy Series Heading to Netflix for the First Time",
+    "url": "https://www.whats-on-netflix.com/news/eastbound-and-down-netflix-release-date/",
+    "source": "What's on Netflix",
+    "time": "2026-11-28T02:54+08:00",
+    "snippet": "All 29 episodes of the Kenny Powers comedy land on Netflix US on December 12th."
+   },
+   {
+    "title": "Donald Trump Jr.’s Outrage Gifts Netflix’s ‘Hunting Wives’ Some Priceless Streisand Effect PR",
+    "url": "https://deadline.com/2026/11/trump-jr-hunting-wives-kiss-1237234421/",
+    "source": "Deadline",
+    "time": "2026-11-28T07:46+08:00",
+    "snippet": "Christmas came on Thanksgiving for Netflix’s The Hunting Wives, thanks to a fatuous Donald Trump Jr. Never slow to put his silver foot in his big mouth, the oldest and most ambitious son of El Presidente got very hot under the digital colla…"
+   },
+   {
+    "title": "How to Watch the 2026 Thanksgiving Day Parade: A Dolly Parton Tribute, Broadway Medley and Mystery Harry Potter Float",
+    "url": "https://variety.com/2026/shopping/news/how-to-watch-macys-thanksgiving-day-parade-free-live-online-1236957495/",
+    "source": "Variety",
+    "time": "2026-11-28T10:00+08:00",
+    "snippet": "Dolly Parton will be honored with a special musical tribute at this year’s Macy’s Thanksgiving Day Parade, which celebrates its historic 100th edition on Saturday after being postponed from Thanksgiving Day due to weather conditions. Tony-n…"
+   },
+   {
+    "title": "悬疑犯罪题材电影《指尖谋杀》今日上映，口碑特辑来了 - www.jcrb.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yczlrWE9pTVlIb1pRd1h3OTBfR3hVeUtfNUFlQV9BR1hZZ2hWUk9DWDRaTUJhUXFNRVVnZU85NkRoRndua3czeE5JN3FycVVJT1JySGlvWDZlYnBQQzJBVS16MWkzaF9SSEcyN0J5VW0tZw?oc=5",
+    "source": "Google News 影视(中文)",
+    "time": "2026-11-28T10:05+08:00",
+    "snippet": "悬疑犯罪题材电影《指尖谋杀》今日上映，口碑特辑来了 www.jcrb.com"
+   },
+   {
+    "title": "NBC Pulls Ad Criticizing U.S. Military Aid to Israel After Backlash, Reviews Approval Process",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-pulls-ad-criticizing-us-military-aid-israel-backlash-1236764243/",
+    "source": "The Hollywood Reporter",
+    "time": "2026-11-28T07:41+08:00",
+    "snippet": "The ad aired during Wednesday's 'SNL' Thanksgiving special without senior NBC management's knowledge, a source familiar with the situation tells The Hollywood Reporter."
+   },
+   {
+    "title": "Apple TV sets January 22 premiere for sci-fi series Neuromancer - Mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KM0VPWERodEVBZi1UalVhU3dGTlhQNE9XbEE4TVJoSEQyT2xaV1g0RHNOWDJDeE5qV3RqcFJ4bUQ0NUdnZk5ESDFVOFdmMXhhSnZYWVBpMkFwVTIxQWxLdXVuY3UzcXFmNlJwN1hZSGU5R0FaOFFpbm8wZ2c?oc=5",
+    "source": "Google News Apple TV (SG)",
+    "time": "2026-11-28T03:26+08:00",
+    "snippet": "Apple TV sets January 22 premiere for sci-fi series Neuromancer Mezha.net"
+   }
+  ],
+  "国际政治": [
+   {
+    "title": "The split-second teamwork behind an F1 pit stop",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-28T12:01+08:00",
+    "snippet": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew."
+   },
+   {
+    "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+    "source": "The Guardian World",
+    "time": "2026-11-28T12:00+08:00",
+    "snippet": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the par…"
+   },
+   {
+    "title": "How Israel’s odd-couple politics could be close to toppling Netanyahu - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWxmUVRSOTlDS3pmTC14QjZiSzNiVHRDeV9RSmdZY3VyMl9Wb21ZVW9BRHJxbkFseEFGVklrMTRvSzJjZlprWm1UR2kyLW15RzhPNzNVWkNoYU9HUWFENV9sODA0a01kQ0FCTUtmNHhNRTJTREdzNVh3bDNtdDdwd0Z1WmVmYjF3aTlFTS14LXZ5YWtYbTU3NDBGazBqQmtXcmRyU3ZGeEJaTlNCZ1VBdnB5Slg?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-28T10:24+08:00",
+    "snippet": "How Israel’s odd-couple politics could be close to toppling Netanyahu The Washington Post With options limited, PM said readying to offer Eisenkot top spot in rotational gov’t The Times of Israel Analysis • Bennett is the main obstacle to a…"
+   },
+   {
+    "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+    "source": "NYT World",
+    "time": "2026-11-28T09:35+08:00",
+    "snippet": "‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment."
+   },
+   {
+    "title": "Nigeria's 'ultimate hard man' who become an online meme",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-28T09:20+08:00",
+    "snippet": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting."
+   },
+   {
+    "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+    "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-28T08:00+08:00",
+    "snippet": "台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，同時公投決定日後能源政策。"
+   },
+   {
+    "title": "Hackers reportedly breach US air force’s flagship cloud computing platform - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnhNTjh0Z3RySDVSMFg1OEFIZkhGdnpRVmRCUEFLUUM1dEh0SHFacjZHeXZJVXFqdjRLd0Ryd2FGc2FqX0dKWmpOSzBtSEN5cmlWN3NMcnJhZG84R2RQY0wtaUdnQVZmSkxvUnp0SXlLRWd5SmZOSDZqa2dscGQtai1LTXY5VnNJdk85aDhJN0pZM3AtRlc2YS1R?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-28T07:15+08:00",
+    "snippet": "Hackers reportedly breach US air force’s flagship cloud computing platform The Guardian"
+   },
+   {
+    "title": "S&P revises France's outlook from 'stable' to 'negative'",
+    "url": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
+    "source": "France 24",
+    "time": "2026-11-28T06:00+08:00",
+    "snippet": "Rating agency S&P revised France’s outlook to \"negative\" from \"stable\" on Friday, citing growing budget pressures as weak economic growth and higher interest costs make it harder to reduce the deficit."
+   },
+   {
+    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+    "source": "NPR World",
+    "time": "2026-11-27T19:49+08:00",
+    "snippet": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts."
+   },
+   {
+    "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+    "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-28T11:45+08:00",
+    "snippet": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable."
+   },
+   {
+    "title": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+    "source": "The Guardian World",
+    "time": "2026-11-28T10:39+08:00",
+    "snippet": "Severe weather and flood watch warnings are in place as a storm band moves from central Queensland through NSW to Victoria and Tasmania Get our breaking news email , free app or daily news podcast The final weekend of Australia’s wettest sp…"
+   },
+   {
+    "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother' - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWpRbnRCaE5tcG12M3A4TWdIRzNnNnlkUURjZ21ISUUwLUxwRy1vVWZhVWpuRnN4Zk02UnJCVnNGLXYwRVhDN2U0RVdNTGlzcjlneEQ4ejFCeG9VV2M5YVh0S05COHhYd2k1N19sY1p3Qi10M1BOdEZadU9wdEtwWV9oYndyRHRibmJnSzJEQVhBNnBzVUZRbUEtQXg?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-28T09:42+08:00",
+    "snippet": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother' Fox News Afghan women stripped of their names are called ‘granny’ or ‘goat’ EL PAÍS English They must be called \"Bibi\": in Afghanist…"
+   },
+   {
+    "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
+    "url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
+    "source": "NYT World",
+    "time": "2026-11-28T08:21+08:00",
+    "snippet": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen as a test of whether the country’s independent press can survive."
+   },
+   {
+    "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-28T08:56+08:00",
+    "snippet": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
+   },
+   {
+    "title": "台灣「九合一」選舉：六都市長候選人簡介",
+    "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-28T00:04+08:00",
+    "snippet": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。"
+   },
+   {
+    "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-28T04:56+08:00",
+    "snippet": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform Reuters"
+   },
+   {
+    "title": "Uganda to withdraw troops from DR Congo",
+    "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+    "source": "France 24",
+    "time": "2026-11-28T05:44+08:00",
+    "snippet": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Uganda's army chief. The…"
+   },
+   {
+    "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+    "source": "NPR World",
+    "time": "2026-11-27T17:46+08:00",
+    "snippet": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed."
+   },
+   {
+    "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+    "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-28T11:00+08:00",
+    "snippet": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow."
+   },
+   {
+    "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+    "source": "The Guardian World",
+    "time": "2026-11-28T07:43+08:00",
+    "snippet": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west coast saw record high king tide…"
+   },
+   {
+    "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYjVPS2ZpMFhtUThCTEpOYnFXeFRnVHNSWDFORkNQcHNiS3BIM0VZVVFDd1ROMDhqVTJqbUt6OHl4ZGpPX2gtcFhkVzdFd0dDcy1hTjJiM0JlNlhxUmFwUG5EUTRCelIxUC1oZnlxMjV6dlEtN01CUElhWUh0T1ZjeUpOQUt6a0VTU3lrZXQ3N3NJZms3aEFucXQyTDJZeWFmMHc?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-28T09:35+08:00",
+    "snippet": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways The New York Times What we know about the Princess of Wales’ new documentary CNN Kate Middleton’s 9 Biggest Revelations in New Documentary ‘Heal’ People.com Princess Kate takes to the m…"
+   },
+   {
+    "title": "Police Link Release of Substance at Don Toliver Concert to Robbery Attempts",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html",
+    "source": "NYT World",
+    "time": "2026-11-28T07:24+08:00",
+    "snippet": "The police in Manchester, England, said they believed “organized criminals targeted people in the crowd to commit a series of robberies” during the concert on Sunday night."
+   },
+   {
+    "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+    "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-28T08:50+08:00",
+    "snippet": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar."
+   },
+   {
+    "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+    "url": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-27T15:40+08:00",
+    "snippet": "黃仁勳戲劇性地重返英偉達執行長職位，引發亞洲股市劇烈波動，也暴露出區內經濟體高度依賴AI產業及英偉達所帶來的風險。"
+   },
+   {
+    "title": "Thailand moves to pin down source of Myanmar mine river pollution - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFh2LUJucUJyYlo4Rm9lcDdNT3NNekFUbGdnRV9lMzhDSGdUREpxLThuTi1SbU52LWtNT0lMVjFmaGFkN0hkaG1UVlRaZEo4QU1DUlhOQVZ0OURGc3BEdFJfRF9JSHNVWnh1ZzY5ZG1IUDMyOFBjbFZubEY0aXc4QlFMb0prOU9nOTljMlJ0czhfRWg4VlVTRE5yNHFyX3psR0tRWGRmeTk2RWlWdWtJd3FB?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-28T04:23+08:00",
+    "snippet": "Thailand moves to pin down source of Myanmar mine river pollution Reuters"
+   },
+   {
+    "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+    "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+    "source": "France 24",
+    "time": "2026-11-28T05:09+08:00",
+    "snippet": "⁠Ukraine ​made a Black Sea ceasefire offer ​to enable food exports and passed the details on to international allies, a senior Ukrainian official said Friday, adding that Kyiv was waiting for a response from Moscow. The announcement came a …"
+   },
+   {
+    "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+    "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+    "source": "NPR World",
+    "time": "2026-11-27T14:12+08:00",
+    "snippet": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80."
+   },
+   {
+    "title": "Bulgarians demand action by French after Marseille match violence",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-28T10:30+08:00",
+    "snippet": "Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans."
+   },
+   {
+    "title": "Schools in England must set aside time for pupils to read for pleasure",
+    "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+    "source": "The Guardian World",
+    "time": "2026-11-28T07:34+08:00",
+    "snippet": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed reforms of the national curric…"
+   },
+   {
+    "title": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-28T09:10+08:00",
+    "snippet": "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports CBS News U.S. Strikes Vessel Attempting Blockade Run Near Iran WSJ US military says it disabled another ship that tried to breach…"
+   },
+   {
+    "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
+    "source": "NYT World",
+    "time": "2026-11-28T07:11+08:00",
+    "snippet": "Caught between rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space."
+   },
+   {
+    "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+    "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-28T08:05+08:00",
+    "snippet": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them."
+   },
+   {
+    "title": "小行星撞地球有解嗎？科學家揭示首次行星防禦實驗成果",
+    "url": "https://www.bbc.com/zhongwen/articles/crvg238j0g47o/trad?at_medium=RSS&at_campaign=rss",
+    "source": "BBC中文",
+    "time": "2026-11-27T14:16+08:00",
+    "snippet": "四年前，一艘太空船蓄意撞向這顆小行星，使其表面形貌發生巨大變化。"
+   },
+   {
+    "title": "Take Five: A December to remember - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEYxTkU5TnZnVFo4aVg5R0hXNXROblFUYkhPZkJSVlN2cEp6U3NqT3FjeEZqWmhSR0hHOWpMVVZsZi1JUDZLTG5ULW5UNHVNSWUtVm1jUkVPQ0h5Uk9OdWtHRE9LeFlXSWtVLTFZSmtGdVpYZGo0VnVweDZ5M0xVNFE3bFpFakVEVlJMRmRQUGx1Z2dwUDNHNk1mNA?oc=5",
+    "source": "Reuters World (via Google News)",
+    "time": "2026-11-28T01:07+08:00",
+    "snippet": "Take Five: A December to remember Reuters"
+   },
+   {
+    "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
+    "source": "France 24",
+    "time": "2026-11-28T04:43+08:00",
+    "snippet": "“His main political platform is to say, I am not Sánchez, I am the opposite of Sánchez.” As Spain heads to the polls, what do Alberto Núñez Feijóo's campaign and political career tell us about the kind of prime minister he might become? Jav…"
+   },
+   {
+    "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+    "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+    "source": "Al Jazeera",
+    "time": "2026-11-28T10:08+08:00",
+    "snippet": "The case of a missing activist raises fears for the safety of Tanzanian dissidents."
+   },
+   {
+    "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "source": "The Guardian World",
+    "time": "2026-11-28T07:28+08:00",
+    "snippet": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discouraging hardware suppliers from w…"
+   },
+   {
+    "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+    "source": "Google News World",
+    "time": "2026-11-28T06:55+08:00",
+    "snippet": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say Reuters Politics The Economist Why is Italy angry with Ukraine for striking Russian ships off Libya? Al Jazeera Libyan Forces T…"
+   },
+   {
+    "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
+    "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+    "source": "NYT World",
+    "time": "2026-11-28T05:41+08:00",
+    "snippet": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back."
+   },
+   {
+    "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+    "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "time": "2026-11-28T07:02+08:00",
+    "snippet": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out."
+   }
+  ]
+ },
+ "source_status": [
+  {
+   "source": "Hacker News",
+   "status": "success",
+   "item_count": 10
+  },
+  {
+   "source": "RSS Feeds",
+   "status": "success",
+   "item_count": 407
+  }
+ ],
+ "feed_filtered_out": {
+  "IT之家": 48
+ },
+ "github_trending_error": null
+}
